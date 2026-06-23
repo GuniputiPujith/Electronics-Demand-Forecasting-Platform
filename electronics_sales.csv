@@ -1,0 +1,2001 @@
+Product,Month,Promotion,Festival_Season,Discount,Previous_Month_Sales,Demand_Factor,Sales
+Laptop,March,No,Yes,19,80,0.95,88
+Water Purifier,May,No,No,13,108,1.25,137
+Ceiling Fan,February,No,No,11,83,0.7,55
+Water Purifier,June,Yes,Yes,25,84,1.2,142
+Water Purifier,April,No,No,34,109,1.15,137
+Room Heater,February,Yes,No,12,127,1.15,177
+Microwave Oven,June,Yes,No,12,173,0.95,203
+Ceiling Fan,December,Yes,Yes,7,91,0.6,76
+Washing Machine,March,No,Yes,1,134,1.0,155
+Room Heater,November,Yes,No,3,180,1.1,224
+Smart TV,March,No,Yes,22,145,0.9,151
+Smart TV,November,Yes,No,9,116,1.3,183
+Room Heater,May,No,Yes,16,143,0.25,37
+Smart TV,June,No,Yes,13,163,1.0,189
+Microwave Oven,May,Yes,No,4,220,0.9,222
+Refrigerator,September,Yes,No,8,150,1.0,170
+Air Cooler,December,Yes,No,15,88,0.25,30
+Washing Machine,October,No,Yes,34,176,1.0,221
+Air Cooler,February,No,Yes,32,163,0.4,81
+Refrigerator,May,Yes,Yes,5,173,1.0,210
+Refrigerator,April,Yes,No,25,202,1.0,258
+Refrigerator,August,Yes,Yes,1,83,1.0,111
+Washing Machine,May,No,Yes,0,140,1.0,162
+Ceiling Fan,January,Yes,No,11,177,0.6,134
+Laptop,October,No,Yes,39,123,1.1,164
+Air Conditioner,December,No,No,28,212,0.4,92
+Air Conditioner,July,No,Yes,18,212,1.1,276
+Smart TV,July,No,No,21,106,1.0,116
+Air Conditioner,September,Yes,Yes,32,204,0.8,231
+Water Purifier,April,No,No,23,101,1.15,127
+Water Purifier,February,No,No,38,117,0.8,105
+Ceiling Fan,March,Yes,Yes,11,168,0.9,196
+Water Purifier,March,No,No,7,182,1.0,186
+Washing Machine,November,No,No,20,215,1.0,230
+Laptop,February,Yes,Yes,13,206,0.9,252
+Air Cooler,January,No,No,12,228,0.3,75
+Room Heater,April,No,Yes,1,100,0.4,44
+Ceiling Fan,February,No,Yes,4,193,0.7,150
+Washing Machine,June,No,No,2,167,1.0,168
+Washing Machine,July,Yes,Yes,13,199,1.0,257
+Laptop,December,Yes,Yes,35,107,1.1,171
+Room Heater,May,No,Yes,38,199,0.25,58
+Water Purifier,April,Yes,No,15,210,1.15,281
+Microwave Oven,May,Yes,No,39,138,0.9,159
+Washing Machine,January,No,No,6,245,1.0,253
+Air Conditioner,November,Yes,No,8,167,0.45,92
+Smart TV,July,No,No,37,237,1.0,261
+Air Cooler,November,No,Yes,35,185,0.3,69
+Refrigerator,December,Yes,Yes,11,208,1.0,284
+Smart TV,August,Yes,No,19,94,1.05,115
+Microwave Oven,January,Yes,No,21,153,0.8,142
+Microwave Oven,January,No,Yes,23,182,0.8,170
+Refrigerator,October,Yes,Yes,1,134,1.0,176
+Microwave Oven,December,No,Yes,40,109,1.2,157
+Laptop,January,No,Yes,29,233,0.9,257
+Refrigerator,April,No,Yes,27,108,1.0,128
+Ceiling Fan,May,Yes,No,38,151,1.2,220
+Air Conditioner,June,Yes,No,40,164,1.25,273
+Laptop,January,No,No,17,92,0.9,84
+Washing Machine,August,Yes,Yes,9,164,1.0,220
+Water Purifier,February,No,Yes,16,204,0.8,191
+Laptop,January,No,No,8,189,0.9,170
+Refrigerator,January,Yes,No,14,108,1.0,126
+Smart TV,January,No,Yes,3,154,0.9,151
+Room Heater,December,Yes,No,26,168,1.35,266
+Washing Machine,July,No,No,13,119,1.0,119
+Air Conditioner,October,No,No,1,213,0.6,130
+Microwave Oven,September,Yes,No,5,112,1.1,145
+Ceiling Fan,April,No,Yes,27,167,1.1,214
+Refrigerator,June,Yes,No,10,210,1.0,249
+Smart TV,November,No,Yes,16,232,1.3,347
+Air Cooler,December,Yes,Yes,23,82,0.25,30
+Water Purifier,March,No,No,3,223,1.0,221
+Ceiling Fan,June,No,Yes,21,198,1.2,284
+Ceiling Fan,March,No,No,32,182,0.9,180
+Laptop,December,No,Yes,26,233,1.1,311
+Air Cooler,April,No,No,40,162,1.0,186
+Air Cooler,December,Yes,No,20,222,0.25,69
+Air Conditioner,May,Yes,No,8,206,1.3,307
+Air Cooler,May,Yes,Yes,31,227,1.25,412
+Room Heater,April,No,No,34,130,0.4,61
+Room Heater,December,Yes,No,40,179,1.35,318
+Water Purifier,November,No,Yes,26,174,0.75,153
+Laptop,March,Yes,No,26,132,0.95,154
+Smart TV,November,No,No,14,142,1.3,187
+Ceiling Fan,June,No,Yes,34,155,1.2,239
+Ceiling Fan,February,Yes,Yes,5,97,0.7,83
+Smart TV,January,No,Yes,18,142,0.9,151
+Microwave Oven,April,Yes,Yes,29,227,0.9,297
+Room Heater,February,Yes,Yes,39,85,1.15,141
+Laptop,October,No,No,39,132,1.1,159
+Smart TV,June,No,No,10,99,1.0,102
+Water Purifier,November,No,No,10,244,0.75,185
+Refrigerator,October,Yes,No,21,177,1.0,218
+Room Heater,November,Yes,No,2,144,1.1,192
+Laptop,February,Yes,Yes,18,173,0.9,217
+Room Heater,June,No,Yes,19,94,0.2,18
+Washing Machine,January,Yes,No,37,169,1.0,213
+Ceiling Fan,May,Yes,Yes,9,105,1.2,171
+Microwave Oven,April,No,No,8,223,0.9,201
+Refrigerator,September,Yes,No,1,203,1.0,243
+Laptop,June,No,No,38,233,1.15,299
+Water Purifier,September,No,Yes,10,171,0.9,183
+Laptop,August,No,No,9,142,1.3,187
+Room Heater,January,No,Yes,0,153,1.3,212
+Smart TV,May,No,Yes,31,195,0.95,220
+Refrigerator,September,Yes,Yes,32,150,1.0,212
+Refrigerator,August,No,Yes,19,173,1.0,199
+Washing Machine,June,Yes,No,17,225,1.0,273
+Water Purifier,August,No,No,8,181,1.0,189
+Refrigerator,July,Yes,No,17,135,1.0,158
+Smart TV,November,Yes,No,32,171,1.3,290
+Air Conditioner,October,No,No,10,126,0.6,82
+Air Conditioner,September,Yes,Yes,39,227,0.8,243
+Microwave Oven,May,Yes,No,32,107,0.9,126
+Smart TV,March,Yes,No,31,120,0.9,136
+Washing Machine,November,Yes,Yes,4,246,1.0,304
+Ceiling Fan,January,Yes,No,20,170,0.6,128
+Water Purifier,December,No,Yes,6,191,0.7,160
+Room Heater,August,No,No,16,98,0.25,28
+Laptop,February,No,Yes,27,128,0.9,134
+Microwave Oven,February,Yes,No,0,123,0.8,116
+Water Purifier,December,Yes,Yes,10,248,0.7,228
+Air Conditioner,January,Yes,No,35,190,0.4,95
+Refrigerator,January,No,No,19,125,1.0,133
+Ceiling Fan,September,Yes,No,28,169,0.9,194
+Air Conditioner,November,No,No,14,167,0.45,74
+Room Heater,January,Yes,No,16,207,1.3,313
+Refrigerator,October,Yes,Yes,30,193,1.0,280
+Refrigerator,September,No,No,21,110,1.0,117
+Ceiling Fan,February,No,No,12,132,0.7,99
+Microwave Oven,August,Yes,No,40,125,1.0,159
+Smart TV,October,Yes,No,23,91,1.35,150
+Ceiling Fan,July,No,Yes,35,217,1.1,299
+Smart TV,December,No,No,25,121,1.2,155
+Smart TV,June,Yes,Yes,24,236,1.0,327
+Washing Machine,February,Yes,Yes,17,181,1.0,237
+Refrigerator,October,No,No,25,212,1.0,226
+Washing Machine,June,No,No,19,115,1.0,127
+Laptop,March,No,Yes,25,142,0.95,158
+Air Cooler,August,Yes,No,16,229,0.9,242
+Smart TV,August,No,Yes,2,144,1.05,168
+Water Purifier,August,Yes,No,2,196,1.0,227
+Air Conditioner,June,Yes,No,22,171,1.25,264
+Air Cooler,April,No,Yes,9,250,1.0,278
+Water Purifier,February,Yes,No,3,137,0.8,123
+Washing Machine,August,No,No,28,206,1.0,221
+Laptop,March,Yes,No,29,196,0.95,232
+Ceiling Fan,September,No,Yes,5,184,0.9,187
+Ceiling Fan,December,Yes,Yes,8,235,0.6,189
+Air Conditioner,October,Yes,Yes,2,116,0.6,88
+Laptop,October,Yes,No,38,182,1.1,263
+Laptop,September,Yes,No,26,142,1.15,205
+Laptop,September,Yes,Yes,18,182,1.15,282
+Air Cooler,August,Yes,Yes,15,144,0.9,184
+Washing Machine,December,No,No,10,186,1.0,195
+Air Cooler,January,No,Yes,18,211,0.3,69
+Smart TV,May,Yes,Yes,9,199,0.95,239
+Microwave Oven,July,No,No,9,250,1.0,259
+Smart TV,November,No,No,38,154,1.3,218
+Laptop,December,No,Yes,18,115,1.1,152
+Air Cooler,February,Yes,No,26,204,0.4,98
+Room Heater,May,Yes,No,32,163,0.25,54
+Refrigerator,May,No,No,14,209,1.0,219
+Microwave Oven,February,No,No,15,83,0.8,68
+Laptop,April,Yes,No,19,157,1.0,192
+Microwave Oven,December,Yes,Yes,3,83,1.2,126
+Refrigerator,December,No,No,2,133,1.0,137
+Laptop,May,Yes,No,21,186,1.0,234
+Laptop,June,Yes,Yes,9,110,1.15,163
+Refrigerator,February,Yes,Yes,0,147,1.0,193
+Refrigerator,March,Yes,Yes,17,179,1.0,233
+Smart TV,October,Yes,No,1,143,1.35,215
+Air Conditioner,December,Yes,No,16,224,0.4,111
+Washing Machine,January,Yes,No,29,244,1.0,307
+Air Cooler,October,Yes,No,9,132,0.45,68
+Air Conditioner,July,Yes,No,21,184,1.1,248
+Smart TV,May,No,No,10,243,0.95,235
+Water Purifier,March,No,No,31,212,1.0,230
+Air Conditioner,February,No,Yes,16,120,0.5,75
+Ceiling Fan,April,No,No,40,138,1.1,166
+Ceiling Fan,April,Yes,No,21,163,1.1,218
+Room Heater,November,No,No,7,201,1.1,223
+Smart TV,June,No,No,16,90,1.0,90
+Refrigerator,December,Yes,Yes,14,105,1.0,137
+Microwave Oven,June,Yes,No,11,97,0.95,113
+Air Cooler,February,No,Yes,10,183,0.4,82
+Air Cooler,January,No,No,14,221,0.3,72
+Microwave Oven,September,Yes,Yes,27,202,1.1,305
+Air Conditioner,April,No,No,27,140,1.0,147
+Water Purifier,March,Yes,No,5,193,1.0,230
+Laptop,September,Yes,No,36,244,1.15,358
+Refrigerator,November,Yes,No,7,147,1.0,168
+Room Heater,December,No,No,34,213,1.35,318
+Laptop,May,No,No,11,191,1.0,195
+Air Conditioner,January,Yes,No,11,94,0.4,48
+Ceiling Fan,January,No,Yes,12,168,0.6,116
+Room Heater,August,Yes,No,35,140,0.25,48
+Water Purifier,February,Yes,Yes,3,198,0.8,189
+Smart TV,February,Yes,No,21,91,0.9,95
+Washing Machine,December,Yes,No,8,102,1.0,120
+Microwave Oven,October,Yes,Yes,7,191,1.3,309
+Room Heater,January,No,Yes,20,240,1.3,367
+Laptop,August,No,No,26,202,1.3,279
+Room Heater,August,Yes,Yes,1,127,0.25,44
+Ceiling Fan,January,Yes,No,32,145,0.6,114
+Refrigerator,October,No,No,22,84,1.0,93
+Washing Machine,November,Yes,No,0,179,1.0,208
+Air Conditioner,December,No,Yes,34,242,0.4,116
+Laptop,August,No,No,11,134,1.3,182
+Air Cooler,May,No,No,30,240,1.25,322
+Air Conditioner,May,Yes,Yes,13,154,1.3,262
+Ceiling Fan,June,No,Yes,6,158,1.2,211
+Air Cooler,November,Yes,Yes,39,198,0.3,84
+Water Purifier,June,No,No,38,131,1.2,171
+Air Cooler,December,Yes,Yes,3,119,0.25,40
+Air Conditioner,July,Yes,Yes,22,213,1.1,318
+Ceiling Fan,November,No,No,10,216,0.7,156
+Smart TV,February,Yes,Yes,22,200,0.9,244
+Washing Machine,June,No,No,13,167,1.0,169
+Water Purifier,November,No,Yes,2,188,0.75,160
+Microwave Oven,March,No,No,39,229,0.85,219
+Microwave Oven,July,No,Yes,5,208,1.0,233
+Ceiling Fan,September,Yes,Yes,23,80,0.9,101
+Microwave Oven,March,Yes,Yes,27,156,0.85,187
+Microwave Oven,February,Yes,Yes,4,160,0.8,174
+Microwave Oven,November,No,Yes,12,220,1.35,347
+Air Conditioner,October,Yes,Yes,23,209,0.6,168
+Laptop,February,No,Yes,0,156,0.9,160
+Smart TV,October,Yes,No,23,199,1.35,331
+Water Purifier,July,No,No,15,101,1.1,112
+Smart TV,October,Yes,No,26,102,1.35,179
+Laptop,April,Yes,No,12,172,1.0,214
+Washing Machine,August,No,Yes,30,207,1.0,257
+Water Purifier,October,Yes,No,25,143,0.8,143
+Refrigerator,May,No,Yes,17,118,1.0,136
+Air Conditioner,October,Yes,No,6,221,0.6,147
+Microwave Oven,October,Yes,No,31,177,1.3,297
+Air Cooler,September,No,No,20,146,0.7,104
+Ceiling Fan,September,Yes,No,29,92,0.9,105
+Ceiling Fan,February,No,Yes,22,103,0.7,84
+Room Heater,February,Yes,Yes,2,195,1.15,297
+Water Purifier,May,Yes,No,12,108,1.25,165
+Microwave Oven,February,No,No,31,231,0.8,206
+Air Cooler,November,Yes,Yes,18,164,0.3,61
+Laptop,September,No,Yes,0,130,1.15,160
+Microwave Oven,August,Yes,No,5,207,1.0,247
+Air Conditioner,February,No,No,16,109,0.5,54
+Air Cooler,January,Yes,No,33,118,0.3,51
+Air Cooler,June,No,No,28,83,1.2,112
+Air Conditioner,March,Yes,Yes,37,214,0.8,238
+Refrigerator,June,No,Yes,20,131,1.0,151
+Washing Machine,June,Yes,No,9,155,1.0,179
+Water Purifier,November,Yes,No,0,154,0.75,143
+Room Heater,April,Yes,Yes,14,221,0.4,123
+Smart TV,August,Yes,Yes,40,113,1.05,173
+Washing Machine,July,No,No,19,152,1.0,157
+Water Purifier,August,Yes,No,8,115,1.0,139
+Air Cooler,February,No,Yes,27,128,0.4,60
+Air Cooler,July,Yes,No,29,241,1.0,299
+Room Heater,September,No,No,8,197,0.4,83
+Smart TV,December,No,No,39,114,1.2,157
+Microwave Oven,February,Yes,Yes,28,233,0.8,279
+Room Heater,December,Yes,No,11,189,1.35,304
+Ceiling Fan,April,No,No,5,199,1.1,224
+Room Heater,June,Yes,Yes,11,192,0.2,49
+Washing Machine,June,Yes,Yes,13,112,1.0,155
+Refrigerator,February,Yes,No,36,222,1.0,294
+Laptop,April,No,No,24,242,1.0,258
+Water Purifier,October,No,Yes,29,80,0.8,76
+Air Conditioner,January,No,No,15,142,0.4,55
+Ceiling Fan,February,No,Yes,29,170,0.7,139
+Water Purifier,November,No,Yes,10,104,0.75,92
+Room Heater,August,No,Yes,19,125,0.25,36
+Air Conditioner,April,No,No,37,217,1.0,242
+Ceiling Fan,November,No,No,26,209,0.7,162
+Water Purifier,June,No,No,34,105,1.2,141
+Air Cooler,July,No,No,34,189,1.0,212
+Water Purifier,October,No,No,17,232,0.8,192
+Refrigerator,November,Yes,No,14,96,1.0,113
+Microwave Oven,May,No,Yes,31,239,0.9,265
+Air Conditioner,May,Yes,Yes,22,185,1.3,313
+Ceiling Fan,March,No,Yes,5,241,0.9,242
+Refrigerator,November,Yes,Yes,29,193,1.0,285
+Microwave Oven,November,Yes,No,7,97,1.35,147
+Washing Machine,October,Yes,Yes,1,131,1.0,174
+Air Conditioner,December,Yes,No,12,192,0.4,91
+Water Purifier,October,Yes,No,17,161,0.8,155
+Air Cooler,January,Yes,Yes,15,161,0.3,66
+Microwave Oven,December,No,No,18,198,1.2,247
+Room Heater,November,No,No,1,93,1.1,99
+Refrigerator,February,No,Yes,6,227,1.0,250
+Ceiling Fan,August,No,Yes,35,143,1.0,174
+Water Purifier,February,Yes,Yes,27,112,0.8,117
+Air Conditioner,November,Yes,Yes,11,134,0.45,83
+Room Heater,July,Yes,Yes,18,133,0.2,35
+Air Cooler,November,No,Yes,23,161,0.3,54
+Water Purifier,July,Yes,Yes,17,219,1.1,337
+Washing Machine,December,No,Yes,34,231,1.0,284
+Air Cooler,March,No,No,13,117,0.7,83
+Water Purifier,July,Yes,Yes,39,245,1.1,396
+Washing Machine,January,No,No,28,104,1.0,110
+Air Cooler,January,Yes,Yes,11,142,0.3,52
+Ceiling Fan,July,Yes,No,3,223,1.1,278
+Laptop,November,Yes,Yes,27,174,1.2,272
+Refrigerator,October,No,No,22,135,1.0,146
+Air Cooler,July,Yes,No,32,136,1.0,175
+Air Cooler,April,Yes,No,24,223,1.0,269
+Room Heater,October,Yes,Yes,11,153,0.7,140
+Refrigerator,August,No,No,38,205,1.0,223
+Washing Machine,October,Yes,No,33,172,1.0,222
+Room Heater,April,Yes,No,39,165,0.4,92
+Washing Machine,December,Yes,Yes,14,154,1.0,198
+Water Purifier,September,Yes,Yes,13,121,0.9,146
+Smart TV,May,No,No,28,196,0.95,198
+Room Heater,May,Yes,Yes,3,139,0.25,46
+Room Heater,September,No,Yes,18,177,0.4,82
+Smart TV,May,Yes,Yes,6,177,0.95,215
+Air Cooler,June,Yes,No,6,236,1.2,340
+Washing Machine,October,Yes,No,25,195,1.0,243
+Microwave Oven,October,No,Yes,38,164,1.3,256
+Refrigerator,May,No,Yes,0,134,1.0,150
+Ceiling Fan,March,No,No,30,89,0.9,88
+Microwave Oven,May,No,No,20,195,0.9,191
+Laptop,March,No,No,32,199,0.95,203
+Laptop,March,Yes,No,11,98,0.95,111
+Smart TV,October,No,Yes,25,132,1.35,218
+Washing Machine,April,Yes,Yes,14,162,1.0,213
+Washing Machine,April,Yes,No,10,160,1.0,182
+Washing Machine,November,Yes,No,13,96,1.0,110
+Smart TV,November,No,Yes,14,195,1.3,295
+Microwave Oven,February,Yes,Yes,34,231,0.8,272
+Ceiling Fan,June,No,Yes,39,132,1.2,204
+Washing Machine,December,Yes,Yes,13,100,1.0,134
+Washing Machine,December,Yes,Yes,21,94,1.0,135
+Room Heater,February,No,Yes,39,142,1.15,203
+Microwave Oven,October,Yes,Yes,22,180,1.3,333
+Air Conditioner,June,Yes,No,19,87,1.25,132
+Refrigerator,May,No,Yes,29,121,1.0,140
+Smart TV,July,No,Yes,37,161,1.0,200
+Washing Machine,April,Yes,No,30,93,1.0,118
+Ceiling Fan,January,Yes,No,6,154,0.6,111
+Air Cooler,June,Yes,No,37,177,1.2,269
+Air Cooler,July,No,Yes,24,193,1.0,230
+Laptop,July,No,No,22,82,1.25,104
+Water Purifier,November,Yes,Yes,23,218,0.75,220
+Air Cooler,May,Yes,No,37,199,1.25,312
+Washing Machine,November,No,Yes,31,217,1.0,265
+Air Conditioner,July,No,Yes,15,193,1.1,260
+Smart TV,December,No,No,9,237,1.2,296
+Water Purifier,March,No,No,23,134,1.0,138
+Water Purifier,January,Yes,No,17,108,0.7,92
+Air Conditioner,February,No,Yes,4,131,0.5,77
+Ceiling Fan,June,Yes,No,38,86,1.2,128
+Air Cooler,July,No,No,5,245,1.0,245
+Room Heater,September,No,No,2,138,0.4,59
+Smart TV,May,No,Yes,0,181,0.95,195
+Washing Machine,October,No,No,33,90,1.0,96
+Room Heater,August,No,Yes,1,165,0.25,51
+Water Purifier,July,Yes,No,19,248,1.1,330
+Water Purifier,September,Yes,No,26,239,0.9,266
+Air Conditioner,April,Yes,No,3,108,1.0,121
+Air Conditioner,May,No,Yes,21,144,1.3,218
+Room Heater,May,Yes,No,7,123,0.25,41
+Air Conditioner,October,Yes,No,40,83,0.6,71
+Air Conditioner,June,Yes,No,9,91,1.25,134
+Ceiling Fan,October,No,No,23,159,0.8,138
+Water Purifier,February,No,No,30,211,0.8,188
+Microwave Oven,August,Yes,No,29,144,1.0,181
+Water Purifier,October,No,Yes,36,200,0.8,196
+Ceiling Fan,November,Yes,Yes,32,161,0.7,164
+Microwave Oven,February,No,No,8,171,0.8,136
+Refrigerator,December,No,No,14,148,1.0,158
+Smart TV,September,No,Yes,20,102,1.1,126
+Ceiling Fan,February,No,No,14,167,0.7,127
+Refrigerator,April,No,Yes,3,189,1.0,213
+Air Cooler,August,No,Yes,17,225,0.9,236
+Washing Machine,October,No,Yes,13,185,1.0,221
+Room Heater,November,Yes,Yes,3,142,1.1,203
+Laptop,May,No,No,29,103,1.0,113
+Ceiling Fan,December,Yes,No,24,213,0.6,158
+Ceiling Fan,May,Yes,No,19,156,1.2,226
+Air Conditioner,June,Yes,Yes,12,233,1.25,383
+Water Purifier,February,No,Yes,8,91,0.8,88
+Ceiling Fan,February,No,No,24,122,0.7,89
+Laptop,January,No,Yes,7,231,0.9,243
+Air Conditioner,April,Yes,Yes,9,234,1.0,321
+Microwave Oven,November,Yes,No,2,194,1.35,304
+Laptop,August,Yes,Yes,18,184,1.3,343
+Room Heater,January,Yes,Yes,9,171,1.3,283
+Air Cooler,March,Yes,Yes,32,242,0.7,251
+Water Purifier,December,No,No,18,141,0.7,104
+Smart TV,August,No,No,11,129,1.05,140
+Washing Machine,March,Yes,No,10,150,1.0,177
+Ceiling Fan,May,Yes,No,35,132,1.2,210
+Water Purifier,March,No,No,3,81,1.0,86
+Water Purifier,May,No,No,13,249,1.25,319
+Smart TV,January,No,No,14,119,0.9,109
+Microwave Oven,April,No,No,35,155,0.9,150
+Refrigerator,August,No,No,34,180,1.0,198
+Water Purifier,June,No,No,37,145,1.2,191
+Water Purifier,October,No,Yes,30,97,0.8,96
+Water Purifier,February,No,Yes,9,88,0.8,80
+Air Cooler,March,No,Yes,15,118,0.7,94
+Washing Machine,February,No,No,39,178,1.0,194
+Laptop,December,No,Yes,13,199,1.1,247
+Washing Machine,November,No,Yes,26,205,1.0,245
+Washing Machine,June,No,No,12,237,1.0,244
+Refrigerator,March,No,No,21,225,1.0,236
+Air Cooler,November,No,No,11,186,0.3,59
+Washing Machine,October,No,No,23,123,1.0,126
+Room Heater,November,Yes,Yes,7,107,1.1,152
+Laptop,July,Yes,Yes,31,87,1.25,155
+Air Conditioner,August,Yes,Yes,2,166,1.0,205
+Smart TV,December,Yes,No,24,210,1.2,310
+Washing Machine,December,No,Yes,9,143,1.0,160
+Air Conditioner,May,No,No,20,99,1.3,135
+Refrigerator,November,No,Yes,9,107,1.0,123
+Washing Machine,April,Yes,Yes,31,146,1.0,209
+Microwave Oven,November,No,Yes,11,183,1.35,290
+Microwave Oven,April,Yes,Yes,40,180,0.9,244
+Refrigerator,October,No,No,32,242,1.0,264
+Air Cooler,September,Yes,No,7,108,0.7,89
+Laptop,June,No,Yes,35,144,1.15,211
+Ceiling Fan,December,No,Yes,37,241,0.6,179
+Washing Machine,May,Yes,No,34,235,1.0,308
+Laptop,January,No,Yes,39,176,0.9,197
+Air Conditioner,February,No,Yes,9,212,0.5,127
+Smart TV,June,No,No,23,121,1.0,130
+Laptop,January,No,No,9,159,0.9,144
+Room Heater,January,No,Yes,35,161,1.3,249
+Ceiling Fan,January,Yes,Yes,29,104,0.6,80
+Refrigerator,January,Yes,No,24,110,1.0,127
+Room Heater,May,Yes,Yes,10,104,0.25,36
+Microwave Oven,June,No,No,22,80,0.95,84
+Refrigerator,May,Yes,Yes,31,155,1.0,220
+Air Cooler,January,No,No,17,216,0.3,71
+Air Conditioner,July,No,Yes,20,166,1.1,223
+Washing Machine,February,No,No,3,111,1.0,110
+Ceiling Fan,November,Yes,Yes,12,182,0.7,165
+Ceiling Fan,September,No,No,11,124,0.9,114
+Washing Machine,January,No,No,31,159,1.0,172
+Refrigerator,February,No,No,4,221,1.0,226
+Refrigerator,November,No,Yes,10,88,1.0,104
+Room Heater,April,No,Yes,2,83,0.4,39
+Refrigerator,August,No,Yes,0,220,1.0,250
+Microwave Oven,June,Yes,No,28,144,0.95,173
+Microwave Oven,April,Yes,No,33,237,0.9,263
+Ceiling Fan,September,No,Yes,10,187,0.9,192
+Room Heater,October,Yes,No,17,94,0.7,81
+Ceiling Fan,November,No,Yes,37,209,0.7,180
+Water Purifier,June,Yes,Yes,8,185,1.2,295
+Air Conditioner,April,No,Yes,15,247,1.0,287
+Water Purifier,December,Yes,No,25,181,0.7,153
+Air Cooler,November,No,Yes,8,150,0.3,50
+Air Cooler,December,Yes,Yes,33,107,0.25,43
+Smart TV,May,Yes,Yes,19,141,0.95,173
+Washing Machine,August,No,No,26,204,1.0,215
+Laptop,July,Yes,Yes,37,229,1.25,429
+Water Purifier,October,No,Yes,29,229,0.8,227
+Ceiling Fan,May,Yes,Yes,39,99,1.2,174
+Refrigerator,December,No,Yes,4,133,1.0,152
+Water Purifier,August,No,No,1,164,1.0,162
+Ceiling Fan,October,No,Yes,26,234,0.8,233
+Microwave Oven,May,No,No,21,122,0.9,116
+Laptop,December,No,No,7,228,1.1,255
+Laptop,March,Yes,No,4,91,0.95,109
+Washing Machine,September,No,Yes,36,167,1.0,209
+Air Conditioner,September,No,No,32,129,0.8,117
+Smart TV,November,No,No,4,230,1.3,298
+Washing Machine,March,No,No,16,163,1.0,170
+Ceiling Fan,September,Yes,No,16,214,0.9,230
+Microwave Oven,November,No,No,0,232,1.35,309
+Laptop,February,No,No,23,89,0.9,81
+Refrigerator,June,No,No,28,212,1.0,235
+Air Conditioner,August,Yes,Yes,32,107,1.0,159
+Laptop,July,No,No,20,140,1.25,188
+Smart TV,October,Yes,Yes,12,198,1.35,353
+Water Purifier,July,Yes,Yes,35,239,1.1,388
+Laptop,November,No,No,10,113,1.2,145
+Laptop,March,No,No,25,182,0.95,184
+Room Heater,November,Yes,Yes,5,99,1.1,133
+Washing Machine,December,Yes,No,38,127,1.0,165
+Microwave Oven,March,No,Yes,22,182,0.85,177
+Water Purifier,December,No,Yes,11,125,0.7,108
+Microwave Oven,January,No,Yes,5,212,0.8,198
+Air Cooler,October,No,Yes,32,222,0.45,118
+Laptop,January,Yes,Yes,16,185,0.9,235
+Refrigerator,May,Yes,Yes,35,183,1.0,276
+Washing Machine,March,No,No,31,184,1.0,202
+Washing Machine,November,No,Yes,3,177,1.0,204
+Air Conditioner,December,No,Yes,39,103,0.4,48
+Water Purifier,September,Yes,Yes,8,92,0.9,110
+Room Heater,August,Yes,No,24,180,0.25,60
+Room Heater,March,Yes,Yes,38,210,0.7,214
+Water Purifier,February,Yes,No,21,139,0.8,140
+Water Purifier,August,Yes,No,39,225,1.0,291
+Air Conditioner,February,Yes,No,20,114,0.5,65
+Smart TV,June,No,Yes,18,190,1.0,216
+Laptop,November,No,No,5,128,1.2,156
+Washing Machine,February,No,Yes,14,141,1.0,162
+Air Conditioner,April,Yes,No,39,81,1.0,101
+Water Purifier,March,No,No,30,237,1.0,260
+Room Heater,January,Yes,Yes,11,167,1.3,271
+Laptop,June,Yes,Yes,35,239,1.15,373
+Air Cooler,December,Yes,Yes,30,87,0.25,31
+Refrigerator,October,Yes,Yes,13,84,1.0,114
+Air Cooler,November,Yes,No,33,195,0.3,77
+Air Conditioner,August,No,No,7,97,1.0,101
+Laptop,January,No,No,24,96,0.9,88
+Room Heater,March,Yes,No,28,139,0.7,127
+Refrigerator,May,No,Yes,18,225,1.0,268
+Air Cooler,February,Yes,Yes,26,87,0.4,44
+Water Purifier,December,Yes,Yes,19,171,0.7,165
+Washing Machine,November,No,Yes,8,138,1.0,155
+Smart TV,August,Yes,Yes,17,103,1.05,147
+Air Conditioner,September,No,No,20,221,0.8,183
+Washing Machine,April,No,Yes,10,174,1.0,199
+Room Heater,October,Yes,Yes,12,212,0.7,210
+Air Cooler,November,Yes,No,28,142,0.3,57
+Room Heater,November,Yes,Yes,23,81,1.1,116
+Microwave Oven,July,No,Yes,9,241,1.0,265
+Smart TV,May,Yes,Yes,24,164,0.95,222
+Smart TV,August,Yes,No,5,136,1.05,172
+Washing Machine,October,No,No,20,119,1.0,127
+Laptop,May,No,Yes,9,230,1.0,272
+Air Cooler,December,No,Yes,21,212,0.25,66
+Air Conditioner,March,Yes,No,39,105,0.8,110
+Room Heater,September,No,Yes,10,220,0.4,99
+Smart TV,March,No,Yes,21,94,0.9,102
+Air Conditioner,December,Yes,No,26,83,0.4,39
+Microwave Oven,October,No,Yes,33,154,1.3,248
+Washing Machine,March,Yes,Yes,2,249,1.0,321
+Microwave Oven,May,Yes,Yes,12,164,0.9,200
+Laptop,April,No,No,38,157,1.0,174
+Refrigerator,November,No,Yes,30,216,1.0,265
+Room Heater,September,Yes,Yes,32,120,0.4,66
+Air Cooler,March,No,Yes,31,249,0.7,218
+Smart TV,November,No,Yes,20,238,1.3,364
+Washing Machine,December,No,No,19,223,1.0,240
+Water Purifier,April,No,Yes,40,162,1.15,237
+Refrigerator,August,No,Yes,40,90,1.0,106
+Refrigerator,May,Yes,Yes,33,197,1.0,286
+Refrigerator,April,No,No,10,152,1.0,162
+Microwave Oven,September,No,No,7,150,1.1,166
+Smart TV,June,No,Yes,13,177,1.0,204
+Washing Machine,April,No,No,4,247,1.0,251
+Room Heater,September,No,No,16,227,0.4,100
+Air Conditioner,September,Yes,Yes,8,138,0.8,146
+Laptop,February,No,Yes,28,104,0.9,117
+Smart TV,September,No,No,8,206,1.1,228
+Air Conditioner,April,Yes,Yes,20,94,1.0,126
+Air Conditioner,August,Yes,Yes,15,145,1.0,190
+Laptop,May,No,Yes,11,244,1.0,295
+Air Cooler,September,No,Yes,33,147,0.7,129
+Laptop,November,No,No,37,208,1.2,272
+Laptop,October,Yes,No,40,132,1.1,194
+Ceiling Fan,July,Yes,Yes,4,90,1.1,127
+Water Purifier,December,No,Yes,22,236,0.7,207
+Air Conditioner,January,Yes,No,34,163,0.4,77
+Washing Machine,March,No,No,1,106,1.0,101
+Washing Machine,January,No,No,1,92,1.0,87
+Refrigerator,February,No,Yes,17,81,1.0,93
+Room Heater,December,Yes,No,5,242,1.35,390
+Air Cooler,April,Yes,No,20,159,1.0,195
+Room Heater,December,No,Yes,38,109,1.35,184
+Washing Machine,October,Yes,Yes,1,141,1.0,177
+Air Cooler,April,Yes,Yes,0,102,1.0,125
+Room Heater,May,No,No,40,144,0.25,40
+Smart TV,April,No,No,6,183,0.95,172
+Room Heater,September,No,Yes,30,87,0.4,46
+Microwave Oven,March,Yes,No,27,179,0.85,177
+Water Purifier,January,No,Yes,6,121,0.7,99
+Laptop,May,Yes,Yes,34,239,1.0,332
+Laptop,August,Yes,Yes,24,90,1.3,159
+Ceiling Fan,August,No,Yes,31,86,1.0,110
+Refrigerator,July,No,Yes,11,218,1.0,254
+Air Cooler,September,No,No,3,201,0.7,139
+Laptop,June,No,No,36,164,1.15,211
+Washing Machine,July,No,Yes,23,179,1.0,212
+Washing Machine,June,Yes,No,35,92,1.0,119
+Smart TV,June,No,Yes,35,174,1.0,211
+Laptop,August,No,Yes,35,116,1.3,190
+Laptop,November,No,Yes,40,116,1.2,167
+Water Purifier,June,Yes,No,21,185,1.2,278
+Room Heater,April,Yes,Yes,38,230,0.4,133
+Ceiling Fan,September,No,No,10,174,0.9,166
+Air Cooler,September,No,No,33,94,0.7,69
+Ceiling Fan,March,Yes,No,31,203,0.9,226
+Refrigerator,June,No,No,33,243,1.0,269
+Ceiling Fan,April,Yes,No,20,117,1.1,153
+Air Conditioner,November,Yes,No,34,180,0.45,99
+Air Conditioner,November,Yes,Yes,17,139,0.45,87
+Laptop,December,No,No,24,105,1.1,123
+Air Conditioner,March,Yes,No,12,185,0.8,170
+Air Cooler,August,No,Yes,34,167,0.9,183
+Smart TV,February,Yes,No,3,107,0.9,111
+Microwave Oven,August,No,Yes,15,219,1.0,266
+Air Cooler,September,No,Yes,6,194,0.7,150
+Room Heater,August,No,No,24,171,0.25,42
+Water Purifier,March,Yes,Yes,0,181,1.0,218
+Microwave Oven,May,Yes,No,40,235,0.9,267
+Refrigerator,July,Yes,Yes,5,138,1.0,191
+Ceiling Fan,June,Yes,No,13,198,1.2,298
+Water Purifier,July,Yes,Yes,21,159,1.1,226
+Smart TV,July,Yes,Yes,0,240,1.0,296
+Ceiling Fan,January,Yes,No,33,95,0.6,78
+Washing Machine,February,Yes,Yes,11,174,1.0,223
+Refrigerator,December,No,Yes,20,174,1.0,205
+Microwave Oven,June,Yes,No,36,198,0.95,247
+Laptop,July,Yes,No,3,129,1.25,190
+Air Conditioner,January,Yes,Yes,38,124,0.4,63
+Microwave Oven,October,No,Yes,7,133,1.3,202
+Microwave Oven,May,Yes,No,12,88,0.9,87
+Room Heater,September,No,No,20,236,0.4,97
+Refrigerator,March,Yes,Yes,15,192,1.0,249
+Air Cooler,June,No,No,29,228,1.2,297
+Air Cooler,March,No,No,13,146,0.7,106
+Refrigerator,August,Yes,No,2,151,1.0,181
+Room Heater,April,No,No,14,212,0.4,91
+Air Conditioner,July,No,No,27,140,1.1,162
+Washing Machine,August,No,Yes,0,177,1.0,197
+Refrigerator,April,Yes,Yes,20,241,1.0,333
+Water Purifier,December,No,No,14,246,0.7,182
+Ceiling Fan,February,Yes,No,10,188,0.7,154
+Refrigerator,March,Yes,No,27,151,1.0,189
+Air Cooler,July,No,Yes,15,203,1.0,244
+Ceiling Fan,June,No,Yes,25,103,1.2,148
+Refrigerator,January,Yes,Yes,15,157,1.0,199
+Smart TV,November,No,No,0,192,1.3,252
+Room Heater,March,No,Yes,23,201,0.7,158
+Refrigerator,October,No,Yes,26,128,1.0,145
+Room Heater,March,No,Yes,30,110,0.7,93
+Air Conditioner,August,Yes,No,1,124,1.0,144
+Washing Machine,March,Yes,No,8,235,1.0,279
+Water Purifier,August,Yes,Yes,29,151,1.0,214
+Room Heater,February,No,Yes,3,108,1.15,141
+Ceiling Fan,March,No,No,28,200,0.9,194
+Laptop,July,No,Yes,6,80,1.25,110
+Washing Machine,August,Yes,Yes,25,114,1.0,164
+Smart TV,February,No,No,29,101,0.9,98
+Air Cooler,December,No,No,0,242,0.25,56
+Water Purifier,December,Yes,No,25,229,0.7,212
+Air Cooler,December,Yes,Yes,23,152,0.25,56
+Air Cooler,December,No,No,19,199,0.25,56
+Smart TV,September,No,Yes,23,124,1.1,167
+Refrigerator,September,Yes,Yes,20,145,1.0,200
+Microwave Oven,February,Yes,Yes,35,121,0.8,141
+Air Conditioner,September,No,Yes,26,88,0.8,84
+Washing Machine,December,Yes,No,35,80,1.0,102
+Air Conditioner,May,Yes,No,13,102,1.3,154
+Smart TV,May,No,No,18,248,0.95,249
+Laptop,June,No,No,38,160,1.15,201
+Air Conditioner,January,No,No,11,158,0.4,63
+Washing Machine,July,Yes,Yes,16,167,1.0,226
+Microwave Oven,July,Yes,Yes,20,191,1.0,261
+Ceiling Fan,January,Yes,No,5,133,0.6,98
+Water Purifier,December,No,Yes,34,86,0.7,68
+Washing Machine,July,No,Yes,8,197,1.0,231
+Laptop,February,No,No,27,139,0.9,131
+Room Heater,January,No,No,36,203,1.3,295
+Water Purifier,July,No,Yes,2,147,1.1,175
+Washing Machine,June,Yes,No,24,97,1.0,117
+Ceiling Fan,August,No,No,28,162,1.0,175
+Washing Machine,August,Yes,Yes,33,129,1.0,167
+Refrigerator,November,Yes,Yes,26,145,1.0,208
+Microwave Oven,January,Yes,No,29,144,0.8,143
+Refrigerator,November,Yes,Yes,6,168,1.0,226
+Microwave Oven,November,Yes,Yes,3,108,1.35,181
+Smart TV,September,No,Yes,18,148,1.1,189
+Water Purifier,April,Yes,Yes,25,92,1.15,146
+Laptop,July,No,Yes,37,199,1.25,308
+Washing Machine,November,No,Yes,33,127,1.0,162
+Washing Machine,September,No,Yes,36,118,1.0,152
+Refrigerator,December,No,Yes,14,104,1.0,124
+Room Heater,August,No,No,9,124,0.25,36
+Washing Machine,July,Yes,No,4,211,1.0,244
+Microwave Oven,January,No,Yes,4,147,0.8,139
+Microwave Oven,August,No,No,29,217,1.0,236
+Room Heater,June,No,Yes,14,230,0.2,51
+Ceiling Fan,October,Yes,Yes,12,186,0.8,196
+Water Purifier,March,Yes,Yes,31,247,1.0,347
+Ceiling Fan,August,No,Yes,40,143,1.0,177
+Air Cooler,January,Yes,Yes,16,109,0.3,42
+Room Heater,September,No,No,9,155,0.4,68
+Microwave Oven,August,Yes,No,24,129,1.0,163
+Ceiling Fan,June,Yes,Yes,10,120,1.2,197
+Microwave Oven,September,Yes,Yes,14,231,1.1,356
+Smart TV,November,No,Yes,28,160,1.3,251
+Washing Machine,April,Yes,No,12,250,1.0,300
+Laptop,December,Yes,Yes,37,120,1.1,189
+Water Purifier,December,No,Yes,19,86,0.7,64
+Laptop,August,No,No,34,172,1.3,241
+Ceiling Fan,August,No,No,14,89,1.0,93
+Room Heater,January,Yes,No,6,239,1.3,349
+Smart TV,November,Yes,Yes,39,235,1.3,463
+Smart TV,December,No,No,0,126,1.2,149
+Smart TV,February,No,Yes,35,94,0.9,108
+Smart TV,January,Yes,No,3,110,0.9,122
+Room Heater,July,No,Yes,30,188,0.2,41
+Microwave Oven,July,No,No,23,121,1.0,126
+Ceiling Fan,August,No,Yes,27,142,1.0,169
+Laptop,September,No,Yes,35,183,1.15,252
+Washing Machine,May,No,No,14,160,1.0,172
+Air Conditioner,January,No,Yes,22,172,0.4,80
+Microwave Oven,May,No,No,18,189,0.9,178
+Smart TV,December,Yes,No,33,236,1.2,367
+Washing Machine,December,Yes,No,0,103,1.0,120
+Smart TV,October,No,Yes,28,157,1.35,252
+Ceiling Fan,August,No,Yes,14,173,1.0,203
+Water Purifier,March,Yes,Yes,9,134,1.0,165
+Air Conditioner,April,No,No,3,234,1.0,241
+Ceiling Fan,November,No,Yes,15,134,0.7,111
+Refrigerator,June,Yes,Yes,40,228,1.0,326
+Air Conditioner,January,Yes,No,11,105,0.4,48
+Water Purifier,February,Yes,Yes,26,170,0.8,195
+Ceiling Fan,September,No,Yes,38,113,0.9,123
+Laptop,August,No,Yes,11,212,1.3,320
+Room Heater,November,No,Yes,9,195,1.1,251
+Water Purifier,August,No,Yes,26,204,1.0,253
+Refrigerator,August,No,Yes,4,111,1.0,127
+Refrigerator,July,No,Yes,7,156,1.0,171
+Laptop,January,No,No,19,83,0.9,82
+Air Conditioner,May,No,No,34,125,1.3,178
+Ceiling Fan,March,No,Yes,19,250,0.9,257
+Washing Machine,July,Yes,Yes,16,162,1.0,210
+Room Heater,September,Yes,No,12,144,0.4,70
+Air Cooler,April,No,Yes,21,237,1.0,288
+Washing Machine,October,No,No,15,177,1.0,189
+Laptop,February,No,Yes,31,164,0.9,176
+Air Conditioner,May,Yes,No,31,185,1.3,299
+Refrigerator,April,Yes,No,9,239,1.0,288
+Air Conditioner,November,Yes,No,23,153,0.45,90
+Smart TV,July,Yes,Yes,11,214,1.0,273
+Air Cooler,May,No,No,18,171,1.25,222
+Refrigerator,January,Yes,No,39,115,1.0,142
+Air Cooler,October,No,Yes,7,186,0.45,94
+Washing Machine,March,Yes,No,35,179,1.0,232
+Smart TV,December,Yes,No,1,162,1.2,214
+Washing Machine,January,No,Yes,31,200,1.0,242
+Refrigerator,January,Yes,Yes,34,120,1.0,167
+Washing Machine,April,Yes,Yes,22,243,1.0,317
+Smart TV,October,Yes,No,26,241,1.35,412
+Laptop,May,No,No,33,159,1.0,180
+Washing Machine,March,Yes,Yes,23,213,1.0,278
+Refrigerator,February,Yes,No,21,100,1.0,130
+Smart TV,December,No,Yes,14,96,1.2,140
+Water Purifier,February,Yes,No,13,188,0.8,185
+Smart TV,September,No,Yes,13,100,1.1,134
+Air Conditioner,April,Yes,No,27,220,1.0,284
+Air Conditioner,September,Yes,No,25,176,0.8,180
+Laptop,July,Yes,Yes,39,232,1.25,391
+Ceiling Fan,April,Yes,Yes,32,200,1.1,290
+Air Cooler,July,No,No,26,110,1.0,119
+Refrigerator,September,Yes,Yes,37,181,1.0,250
+Microwave Oven,October,Yes,No,13,113,1.3,185
+Smart TV,September,No,No,16,100,1.1,119
+Smart TV,July,Yes,Yes,37,235,1.0,331
+Refrigerator,October,No,Yes,23,115,1.0,139
+Water Purifier,October,No,Yes,17,143,0.8,134
+Air Conditioner,June,No,Yes,39,86,1.25,139
+Ceiling Fan,January,Yes,Yes,17,240,0.6,196
+Air Cooler,May,Yes,Yes,1,209,1.25,334
+Room Heater,March,Yes,Yes,15,144,0.7,138
+Ceiling Fan,June,No,Yes,2,105,1.2,138
+Water Purifier,April,Yes,No,31,213,1.15,318
+Smart TV,March,No,Yes,13,134,0.9,142
+Laptop,October,No,Yes,0,244,1.1,294
+Laptop,December,No,Yes,35,177,1.1,231
+Ceiling Fan,October,No,No,31,155,0.8,137
+Air Cooler,November,Yes,No,21,110,0.3,45
+Air Conditioner,February,Yes,No,32,176,0.5,115
+Room Heater,June,No,No,27,130,0.2,31
+Air Cooler,June,Yes,Yes,2,210,1.2,318
+Ceiling Fan,June,No,No,14,234,1.2,294
+Air Cooler,March,No,Yes,13,162,0.7,129
+Water Purifier,March,No,No,22,184,1.0,192
+Room Heater,July,No,No,1,133,0.2,30
+Microwave Oven,October,No,Yes,24,136,1.3,211
+Ceiling Fan,August,No,No,32,188,1.0,204
+Refrigerator,March,No,No,34,236,1.0,262
+Washing Machine,January,Yes,Yes,26,210,1.0,299
+Washing Machine,February,Yes,No,17,129,1.0,155
+Ceiling Fan,October,Yes,Yes,37,115,0.8,133
+Water Purifier,August,Yes,Yes,6,134,1.0,187
+Refrigerator,September,No,No,1,210,1.0,207
+Refrigerator,February,Yes,Yes,18,234,1.0,323
+Laptop,October,Yes,No,0,241,1.1,306
+Water Purifier,September,Yes,No,28,107,0.9,123
+Smart TV,August,Yes,Yes,7,125,1.05,168
+Air Conditioner,November,No,No,35,172,0.45,89
+Microwave Oven,May,Yes,Yes,13,134,0.9,157
+Room Heater,April,No,No,4,138,0.4,56
+Ceiling Fan,March,No,Yes,5,225,0.9,234
+Room Heater,December,No,No,12,144,1.35,197
+Smart TV,June,No,Yes,4,209,1.0,240
+Air Cooler,November,No,No,26,140,0.3,41
+Water Purifier,August,Yes,Yes,38,124,1.0,187
+Air Conditioner,March,Yes,No,26,240,0.8,229
+Ceiling Fan,March,Yes,Yes,24,81,0.9,110
+Washing Machine,September,Yes,No,21,136,1.0,169
+Laptop,April,No,Yes,23,122,1.0,145
+Air Cooler,August,Yes,No,6,202,0.9,208
+Washing Machine,June,No,Yes,6,187,1.0,212
+Smart TV,October,No,Yes,8,117,1.35,180
+Smart TV,February,No,No,21,230,0.9,219
+Air Cooler,July,Yes,Yes,1,222,1.0,280
+Room Heater,August,Yes,Yes,22,212,0.25,70
+Ceiling Fan,December,Yes,Yes,13,136,0.6,99
+Air Conditioner,May,Yes,No,35,185,1.3,294
+Refrigerator,April,Yes,Yes,4,96,1.0,124
+Refrigerator,September,Yes,No,16,184,1.0,218
+Room Heater,June,No,No,40,111,0.2,22
+Refrigerator,May,Yes,Yes,29,220,1.0,303
+Air Cooler,June,Yes,Yes,22,136,1.2,221
+Microwave Oven,July,No,No,22,154,1.0,160
+Washing Machine,April,Yes,Yes,14,136,1.0,174
+Ceiling Fan,January,No,Yes,31,117,0.6,83
+Air Cooler,November,Yes,Yes,15,98,0.3,33
+Ceiling Fan,November,No,Yes,21,80,0.7,63
+Laptop,October,Yes,Yes,19,120,1.1,180
+Laptop,April,Yes,Yes,3,145,1.0,189
+Room Heater,March,No,Yes,22,88,0.7,75
+Laptop,September,Yes,Yes,30,192,1.15,332
+Smart TV,July,Yes,Yes,21,122,1.0,170
+Washing Machine,October,No,Yes,29,127,1.0,152
+Air Cooler,December,Yes,No,8,243,0.25,71
+Laptop,June,No,Yes,11,130,1.15,173
+Ceiling Fan,February,Yes,No,27,161,0.7,146
+Water Purifier,June,No,Yes,22,123,1.2,176
+Room Heater,February,No,No,30,249,1.15,316
+Laptop,January,Yes,Yes,4,99,0.9,117
+Air Conditioner,August,Yes,No,10,127,1.0,148
+Water Purifier,December,No,No,0,172,0.7,119
+Microwave Oven,June,No,Yes,32,214,0.95,251
+Water Purifier,April,No,Yes,38,152,1.15,217
+Room Heater,June,Yes,No,21,106,0.2,25
+Refrigerator,October,No,Yes,30,237,1.0,283
+Air Conditioner,October,No,Yes,15,118,0.6,85
+Smart TV,June,Yes,Yes,6,104,1.0,129
+Air Conditioner,June,Yes,No,11,115,1.25,178
+Laptop,February,Yes,No,21,94,0.9,103
+Refrigerator,March,No,No,18,114,1.0,116
+Air Conditioner,December,Yes,Yes,37,105,0.4,54
+Refrigerator,April,Yes,No,14,150,1.0,170
+Water Purifier,October,No,Yes,9,216,0.8,207
+Room Heater,June,Yes,Yes,35,115,0.2,28
+Air Conditioner,April,No,No,24,119,1.0,123
+Air Cooler,October,Yes,No,35,97,0.45,54
+Ceiling Fan,November,No,No,14,122,0.7,87
+Ceiling Fan,May,Yes,No,21,176,1.2,272
+Water Purifier,February,Yes,Yes,36,199,0.8,226
+Laptop,August,Yes,No,17,132,1.3,198
+Refrigerator,May,Yes,Yes,10,142,1.0,183
+Washing Machine,November,Yes,No,6,226,1.0,262
+Laptop,October,No,No,17,124,1.1,141
+Refrigerator,December,No,No,16,159,1.0,168
+Smart TV,May,No,Yes,25,137,0.95,166
+Laptop,October,No,No,15,117,1.1,137
+Laptop,March,Yes,Yes,27,127,0.95,162
+Ceiling Fan,September,Yes,No,1,247,0.9,245
+Room Heater,January,No,No,1,216,1.3,285
+Laptop,December,Yes,Yes,12,241,1.1,330
+Refrigerator,August,No,No,35,231,1.0,251
+Microwave Oven,March,Yes,Yes,36,196,0.85,248
+Microwave Oven,June,No,No,19,90,0.95,86
+Room Heater,May,Yes,No,4,131,0.25,43
+Refrigerator,November,No,No,28,191,1.0,207
+Air Cooler,March,Yes,No,11,81,0.7,61
+Smart TV,April,No,No,26,123,0.95,128
+Room Heater,November,Yes,Yes,33,250,1.1,384
+Refrigerator,January,No,No,24,182,1.0,194
+Microwave Oven,November,Yes,Yes,23,122,1.35,230
+Air Conditioner,September,Yes,Yes,27,185,0.8,213
+Microwave Oven,January,Yes,Yes,10,248,0.8,279
+Room Heater,January,No,No,30,102,1.3,148
+Laptop,September,Yes,No,14,244,1.15,329
+Smart TV,April,No,Yes,2,140,0.95,151
+Microwave Oven,September,No,Yes,21,96,1.1,131
+Microwave Oven,April,Yes,Yes,17,183,0.9,231
+Ceiling Fan,September,Yes,No,14,113,0.9,127
+Smart TV,March,Yes,No,21,187,0.9,203
+Air Conditioner,September,No,Yes,6,218,0.8,191
+Laptop,July,No,Yes,20,215,1.25,304
+Washing Machine,October,Yes,No,39,146,1.0,183
+Washing Machine,March,No,Yes,27,102,1.0,129
+Washing Machine,July,Yes,Yes,27,99,1.0,140
+Air Conditioner,September,No,Yes,40,156,0.8,156
+Water Purifier,April,No,Yes,9,211,1.15,275
+Air Cooler,November,Yes,No,40,87,0.3,34
+Smart TV,February,No,No,2,240,0.9,213
+Water Purifier,September,No,No,37,202,0.9,207
+Washing Machine,December,Yes,Yes,38,215,1.0,311
+Refrigerator,March,No,Yes,37,86,1.0,107
+Ceiling Fan,October,No,Yes,23,192,0.8,184
+Ceiling Fan,April,Yes,No,10,249,1.1,322
+Refrigerator,January,Yes,No,8,93,1.0,108
+Microwave Oven,April,Yes,Yes,39,189,0.9,258
+Ceiling Fan,September,No,Yes,33,236,0.9,268
+Washing Machine,October,No,Yes,33,94,1.0,111
+Water Purifier,April,Yes,No,16,142,1.15,199
+Room Heater,April,Yes,Yes,3,87,0.4,44
+Refrigerator,August,No,Yes,7,124,1.0,140
+Washing Machine,February,Yes,No,9,231,1.0,270
+Room Heater,May,Yes,Yes,15,119,0.25,45
+Air Cooler,February,No,No,2,205,0.4,78
+Microwave Oven,February,No,Yes,32,201,0.8,197
+Refrigerator,January,Yes,No,33,135,1.0,173
+Refrigerator,November,Yes,Yes,3,221,1.0,290
+Room Heater,November,No,No,15,151,1.1,169
+Smart TV,May,No,No,37,223,0.95,238
+Microwave Oven,February,No,Yes,2,217,0.8,195
+Water Purifier,January,No,No,1,243,0.7,170
+Refrigerator,July,Yes,No,34,249,1.0,314
+Laptop,July,No,No,15,136,1.25,174
+Microwave Oven,July,Yes,No,10,233,1.0,262
+Air Conditioner,January,No,No,6,139,0.4,60
+Room Heater,October,Yes,Yes,19,132,0.7,122
+Water Purifier,December,No,No,34,248,0.7,192
+Microwave Oven,December,No,No,8,98,1.2,122
+Laptop,December,No,No,11,190,1.1,211
+Microwave Oven,November,Yes,No,2,220,1.35,356
+Washing Machine,July,No,Yes,6,169,1.0,191
+Ceiling Fan,September,Yes,No,8,109,0.9,118
+Water Purifier,June,Yes,Yes,36,158,1.2,264
+Laptop,May,Yes,Yes,15,249,1.0,345
+Refrigerator,July,Yes,Yes,10,240,1.0,320
+Room Heater,January,Yes,No,27,174,1.3,274
+Ceiling Fan,July,Yes,Yes,6,191,1.1,268
+Ceiling Fan,March,Yes,Yes,22,220,0.9,288
+Water Purifier,September,Yes,No,37,150,0.9,167
+Air Cooler,January,Yes,Yes,25,184,0.3,77
+Laptop,June,No,No,29,242,1.15,298
+Washing Machine,May,No,No,31,139,1.0,157
+Ceiling Fan,November,No,No,24,206,0.7,155
+Water Purifier,February,No,Yes,17,176,0.8,161
+Washing Machine,December,Yes,Yes,34,218,1.0,313
+Microwave Oven,February,Yes,No,35,129,0.8,130
+Water Purifier,March,Yes,No,14,99,1.0,117
+Water Purifier,November,Yes,Yes,30,220,0.75,228
+Washing Machine,March,No,Yes,16,243,1.0,283
+Air Cooler,December,No,Yes,38,230,0.25,77
+Microwave Oven,May,Yes,No,21,200,0.9,221
+Air Conditioner,March,Yes,Yes,14,131,0.8,141
+Laptop,January,No,No,4,108,0.9,102
+Water Purifier,June,No,Yes,31,91,1.2,126
+Microwave Oven,July,No,Yes,38,181,1.0,232
+Air Conditioner,July,Yes,Yes,20,84,1.1,122
+Smart TV,June,No,No,2,125,1.0,125
+Washing Machine,February,No,No,20,248,1.0,261
+Room Heater,July,Yes,Yes,31,123,0.2,32
+Laptop,August,Yes,Yes,39,248,1.3,477
+Refrigerator,April,Yes,Yes,32,143,1.0,203
+Refrigerator,July,No,Yes,10,190,1.0,228
+Air Cooler,August,No,No,16,173,0.9,164
+Air Conditioner,September,Yes,No,15,124,0.8,122
+Water Purifier,August,Yes,Yes,11,160,1.0,213
+Washing Machine,September,No,No,36,217,1.0,243
+Laptop,July,Yes,No,14,99,1.25,140
+Laptop,June,Yes,Yes,0,103,1.15,154
+Ceiling Fan,July,No,No,21,80,1.1,93
+Ceiling Fan,September,Yes,Yes,2,164,0.9,197
+Refrigerator,March,Yes,No,11,92,1.0,101
+Smart TV,November,No,No,34,108,1.3,154
+Washing Machine,March,Yes,Yes,6,243,1.0,325
+Smart TV,April,No,Yes,28,242,0.95,271
+Water Purifier,March,No,No,32,175,1.0,195
+Water Purifier,November,Yes,No,11,247,0.75,224
+Water Purifier,September,No,Yes,11,142,0.9,142
+Refrigerator,June,Yes,Yes,40,113,1.0,164
+Washing Machine,December,No,No,14,235,1.0,240
+Air Conditioner,February,Yes,Yes,38,186,0.5,131
+Washing Machine,June,Yes,Yes,3,235,1.0,304
+Laptop,September,No,Yes,37,120,1.15,167
+Microwave Oven,January,Yes,Yes,23,224,0.8,237
+Air Conditioner,July,No,Yes,2,208,1.1,255
+Water Purifier,August,No,Yes,1,166,1.0,183
+Ceiling Fan,August,Yes,Yes,26,204,1.0,294
+Ceiling Fan,June,No,Yes,1,185,1.2,241
+Washing Machine,October,Yes,No,36,225,1.0,284
+Laptop,October,No,No,18,226,1.1,259
+Washing Machine,September,Yes,No,19,85,1.0,101
+Ceiling Fan,September,No,No,30,239,0.9,229
+Refrigerator,December,No,No,17,233,1.0,245
+Smart TV,November,No,No,26,239,1.3,334
+Washing Machine,January,No,Yes,17,113,1.0,131
+Ceiling Fan,December,No,No,38,249,0.6,162
+Ceiling Fan,September,No,Yes,39,96,0.9,107
+Washing Machine,March,Yes,No,24,80,1.0,105
+Room Heater,November,No,No,39,237,1.1,293
+Air Conditioner,February,Yes,Yes,5,192,0.5,127
+Refrigerator,January,Yes,No,13,188,1.0,232
+Water Purifier,August,No,No,5,172,1.0,173
+Washing Machine,January,Yes,No,28,177,1.0,214
+Microwave Oven,October,No,Yes,33,84,1.3,133
+Microwave Oven,July,No,Yes,2,206,1.0,233
+Microwave Oven,June,Yes,Yes,0,171,0.95,205
+Air Conditioner,March,Yes,Yes,27,96,0.8,109
+Laptop,March,No,No,17,249,0.95,244
+Ceiling Fan,June,No,No,5,226,1.2,271
+Water Purifier,June,No,Yes,40,176,1.2,257
+Ceiling Fan,June,Yes,No,0,233,1.2,324
+Ceiling Fan,April,Yes,No,37,92,1.1,135
+Smart TV,June,No,No,1,214,1.0,217
+Water Purifier,February,No,No,8,96,0.8,83
+Air Conditioner,January,Yes,No,11,137,0.4,70
+Microwave Oven,February,No,No,10,120,0.8,95
+Smart TV,October,No,Yes,9,182,1.35,280
+Air Cooler,December,Yes,Yes,33,184,0.25,66
+Room Heater,December,Yes,Yes,3,245,1.35,434
+Refrigerator,June,No,No,37,154,1.0,168
+Washing Machine,March,Yes,Yes,2,117,1.0,149
+Air Cooler,April,Yes,No,37,240,1.0,295
+Air Cooler,February,Yes,Yes,15,145,0.4,80
+Ceiling Fan,September,No,No,24,244,0.9,230
+Air Cooler,July,No,No,9,173,1.0,177
+Smart TV,April,Yes,No,23,196,0.95,223
+Washing Machine,July,Yes,No,9,230,1.0,278
+Room Heater,June,No,Yes,28,92,0.2,25
+Air Conditioner,August,No,Yes,33,157,1.0,189
+Room Heater,September,No,No,34,202,0.4,93
+Air Conditioner,March,Yes,No,40,201,0.8,204
+Washing Machine,April,Yes,No,26,112,1.0,146
+Air Conditioner,November,No,No,39,250,0.45,126
+Room Heater,August,No,No,7,166,0.25,37
+Microwave Oven,September,Yes,Yes,7,164,1.1,237
+Laptop,November,No,Yes,6,187,1.2,267
+Laptop,August,No,Yes,9,192,1.3,289
+Air Cooler,August,No,Yes,12,228,0.9,246
+Microwave Oven,October,Yes,Yes,9,200,1.3,342
+Ceiling Fan,September,No,Yes,27,250,0.9,261
+Water Purifier,May,Yes,Yes,11,235,1.25,400
+Refrigerator,July,No,No,16,250,1.0,260
+Water Purifier,July,No,No,31,173,1.1,209
+Room Heater,February,Yes,Yes,5,192,1.15,281
+Room Heater,September,No,Yes,7,183,0.4,77
+Laptop,April,No,Yes,34,116,1.0,136
+Smart TV,June,Yes,Yes,38,110,1.0,172
+Water Purifier,September,No,No,16,242,0.9,226
+Ceiling Fan,December,Yes,No,35,176,0.6,144
+Ceiling Fan,December,Yes,Yes,17,212,0.6,163
+Refrigerator,August,No,Yes,18,173,1.0,212
+Air Cooler,May,Yes,No,16,150,1.25,221
+Laptop,May,Yes,No,10,183,1.0,209
+Refrigerator,May,Yes,Yes,27,146,1.0,198
+Refrigerator,December,Yes,No,19,178,1.0,205
+Ceiling Fan,October,No,Yes,38,141,0.8,146
+Smart TV,March,Yes,No,38,175,0.9,199
+Washing Machine,October,No,Yes,4,173,1.0,196
+Air Conditioner,May,No,No,38,244,1.3,351
+Room Heater,August,Yes,No,19,126,0.25,33
+Room Heater,May,Yes,Yes,28,101,0.25,32
+Laptop,June,Yes,No,9,250,1.15,347
+Microwave Oven,April,No,Yes,0,225,0.9,228
+Refrigerator,December,Yes,Yes,10,123,1.0,156
+Microwave Oven,April,Yes,No,1,168,0.9,177
+Ceiling Fan,April,No,Yes,5,177,1.1,218
+Laptop,January,No,No,37,246,0.9,251
+Refrigerator,December,No,Yes,11,135,1.0,152
+Room Heater,September,Yes,No,12,163,0.4,79
+Ceiling Fan,September,No,No,5,148,0.9,137
+Washing Machine,December,No,No,40,81,1.0,89
+Washing Machine,August,No,Yes,40,224,1.0,281
+Smart TV,September,No,No,28,179,1.1,212
+Air Conditioner,October,Yes,Yes,16,81,0.6,63
+Washing Machine,August,Yes,Yes,25,131,1.0,168
+Microwave Oven,September,Yes,No,5,178,1.1,224
+Water Purifier,June,Yes,Yes,32,234,1.2,407
+Laptop,December,Yes,No,10,118,1.1,152
+Smart TV,March,Yes,Yes,8,182,0.9,200
+Air Conditioner,November,No,Yes,28,113,0.45,60
+Room Heater,February,No,Yes,6,148,1.15,186
+Ceiling Fan,December,Yes,No,32,147,0.6,110
+Laptop,December,Yes,Yes,10,225,1.1,319
+Washing Machine,December,No,No,6,240,1.0,247
+Water Purifier,July,No,No,4,101,1.1,111
+Refrigerator,October,No,Yes,4,128,1.0,140
+Microwave Oven,March,Yes,Yes,8,208,0.85,239
+Laptop,September,No,No,6,220,1.15,254
+Washing Machine,September,No,No,38,152,1.0,169
+Ceiling Fan,October,Yes,No,31,210,0.8,210
+Microwave Oven,February,No,No,18,110,0.8,90
+Microwave Oven,February,No,Yes,0,194,0.8,173
+Refrigerator,October,Yes,Yes,30,107,1.0,146
+Smart TV,August,No,Yes,20,117,1.05,141
+Air Cooler,November,Yes,No,4,217,0.3,71
+Microwave Oven,July,Yes,Yes,13,223,1.0,281
+Laptop,April,No,Yes,39,239,1.0,293
+Washing Machine,September,No,No,9,154,1.0,155
+Smart TV,August,Yes,Yes,34,234,1.05,340
+Microwave Oven,September,No,No,37,225,1.1,272
+Microwave Oven,September,No,Yes,11,110,1.1,140
+Microwave Oven,April,No,No,17,92,0.9,87
+Room Heater,January,No,Yes,30,96,1.3,151
+Washing Machine,December,No,Yes,4,228,1.0,262
+Laptop,June,Yes,No,30,149,1.15,207
+Water Purifier,May,No,No,9,203,1.25,266
+Air Cooler,April,No,No,28,169,1.0,187
+Refrigerator,July,No,Yes,24,215,1.0,265
+Air Cooler,August,No,Yes,16,181,0.9,196
+Air Conditioner,December,Yes,No,15,237,0.4,112
+Water Purifier,October,No,No,23,130,0.8,109
+Washing Machine,April,No,No,23,233,1.0,252
+Ceiling Fan,October,No,Yes,39,103,0.8,103
+Air Conditioner,February,No,Yes,4,211,0.5,121
+Refrigerator,June,No,Yes,15,218,1.0,264
+Refrigerator,September,Yes,No,1,105,1.0,119
+Ceiling Fan,June,Yes,No,16,81,1.2,119
+Ceiling Fan,November,No,Yes,34,230,0.7,202
+Laptop,December,No,No,2,140,1.1,152
+Smart TV,June,Yes,No,10,200,1.0,245
+Room Heater,July,Yes,Yes,26,216,0.2,65
+Washing Machine,December,No,Yes,26,122,1.0,156
+Refrigerator,November,Yes,No,29,171,1.0,204
+Air Cooler,January,No,Yes,18,175,0.3,62
+Ceiling Fan,March,Yes,No,5,91,0.9,93
+Refrigerator,September,No,Yes,39,136,1.0,174
+Washing Machine,November,No,Yes,13,202,1.0,237
+Washing Machine,December,Yes,Yes,7,244,1.0,311
+Washing Machine,August,No,No,15,122,1.0,132
+Smart TV,June,No,No,3,87,1.0,83
+Room Heater,January,Yes,No,4,233,1.3,342
+Air Conditioner,March,No,Yes,11,160,0.8,147
+Smart TV,September,Yes,Yes,22,224,1.1,336
+Microwave Oven,December,Yes,No,13,250,1.2,366
+Air Cooler,July,No,No,26,96,1.0,106
+Smart TV,May,Yes,No,11,102,0.95,120
+Room Heater,June,No,Yes,35,126,0.2,29
+Room Heater,October,Yes,Yes,7,236,0.7,218
+Water Purifier,August,No,Yes,6,149,1.0,173
+Water Purifier,April,No,Yes,33,162,1.15,226
+Refrigerator,November,Yes,No,4,197,1.0,236
+Air Cooler,August,No,Yes,23,174,0.9,197
+Ceiling Fan,May,No,Yes,3,86,1.2,119
+Ceiling Fan,July,No,Yes,29,221,1.1,302
+Microwave Oven,September,No,Yes,31,120,1.1,162
+Air Conditioner,March,Yes,Yes,20,188,0.8,210
+Room Heater,March,Yes,Yes,17,171,0.7,162
+Ceiling Fan,July,Yes,Yes,8,144,1.1,206
+Refrigerator,April,No,No,36,228,1.0,249
+Water Purifier,June,No,No,0,198,1.2,238
+Washing Machine,September,Yes,No,22,112,1.0,137
+Air Conditioner,August,Yes,No,31,110,1.0,133
+Microwave Oven,June,Yes,Yes,6,177,0.95,226
+Air Conditioner,January,No,Yes,38,189,0.4,97
+Air Conditioner,September,No,Yes,22,81,0.8,76
+Microwave Oven,August,Yes,No,11,156,1.0,180
+Air Cooler,December,No,No,29,222,0.25,59
+Smart TV,February,Yes,No,29,126,0.9,138
+Smart TV,March,No,No,1,97,0.9,88
+Air Cooler,August,Yes,No,8,173,0.9,175
+Ceiling Fan,September,Yes,Yes,24,133,0.9,163
+Air Cooler,November,No,Yes,37,105,0.3,34
+Smart TV,June,No,Yes,28,198,1.0,246
+Air Conditioner,October,Yes,No,39,151,0.6,116
+Water Purifier,June,Yes,No,7,231,1.2,318
+Smart TV,February,No,Yes,26,236,0.9,255
+Refrigerator,February,No,No,27,225,1.0,247
+Air Conditioner,August,Yes,Yes,24,135,1.0,180
+Water Purifier,March,Yes,No,10,206,1.0,241
+Air Conditioner,March,No,Yes,3,183,0.8,162
+Microwave Oven,October,Yes,Yes,32,168,1.3,290
+Laptop,July,No,Yes,28,84,1.25,127
+Refrigerator,September,No,No,15,156,1.0,159
+Smart TV,March,Yes,No,4,123,0.9,129
+Refrigerator,June,No,Yes,21,135,1.0,170
+Smart TV,September,Yes,No,12,217,1.1,288
+Smart TV,January,Yes,No,23,89,0.9,101
+Ceiling Fan,May,Yes,Yes,7,217,1.2,349
+Room Heater,December,No,Yes,39,154,1.35,257
+Refrigerator,January,No,Yes,23,232,1.0,276
+Laptop,February,No,No,25,118,0.9,113
+Air Conditioner,November,Yes,Yes,2,205,0.45,122
+Washing Machine,October,No,Yes,25,250,1.0,308
+Air Cooler,December,No,No,35,145,0.25,40
+Microwave Oven,January,No,Yes,10,131,0.8,118
+Air Conditioner,May,Yes,Yes,34,184,1.3,341
+Microwave Oven,November,No,No,38,223,1.35,330
+Washing Machine,February,Yes,No,27,161,1.0,195
+Air Conditioner,June,Yes,No,10,90,1.25,133
+Laptop,May,Yes,Yes,27,134,1.0,187
+Smart TV,December,Yes,Yes,11,167,1.2,267
+Ceiling Fan,August,No,No,34,178,1.0,200
+Air Cooler,August,Yes,Yes,29,236,0.9,299
+Refrigerator,March,No,No,24,106,1.0,117
+Laptop,October,Yes,No,15,153,1.1,206
+Laptop,June,No,Yes,13,120,1.15,159
+Washing Machine,November,No,No,39,137,1.0,152
+Water Purifier,July,Yes,Yes,16,160,1.1,232
+Water Purifier,April,Yes,Yes,5,107,1.15,161
+Refrigerator,June,Yes,No,40,90,1.0,106
+Microwave Oven,January,Yes,No,19,186,0.8,186
+Air Cooler,April,Yes,No,15,247,1.0,301
+Room Heater,March,Yes,Yes,5,90,0.7,81
+Refrigerator,April,No,Yes,7,185,1.0,210
+Microwave Oven,May,No,Yes,29,128,0.9,138
+Smart TV,May,No,No,40,170,0.95,185
+Washing Machine,June,Yes,No,21,81,1.0,97
+Ceiling Fan,February,Yes,No,11,194,0.7,158
+Ceiling Fan,January,Yes,Yes,36,245,0.6,206
+Refrigerator,October,No,No,8,136,1.0,134
+Microwave Oven,March,Yes,Yes,17,244,0.85,278
+Water Purifier,April,No,No,39,192,1.15,251
+Refrigerator,July,No,No,29,163,1.0,173
+Water Purifier,February,Yes,Yes,10,193,0.8,208
+Air Cooler,February,No,No,6,204,0.4,82
+Laptop,December,Yes,Yes,22,133,1.1,215
+Microwave Oven,September,No,No,33,239,1.1,293
+Air Cooler,March,Yes,Yes,17,129,0.7,115
+Room Heater,December,Yes,Yes,22,138,1.35,250
+Microwave Oven,January,Yes,Yes,9,166,0.8,163
+Water Purifier,August,No,No,35,243,1.0,268
+Air Conditioner,January,Yes,No,8,111,0.4,54
+Water Purifier,June,No,No,19,152,1.2,194
+Microwave Oven,July,No,Yes,4,194,1.0,225
+Laptop,August,Yes,No,33,171,1.3,267
+Washing Machine,August,Yes,Yes,11,124,1.0,171
+Room Heater,November,Yes,No,20,232,1.1,318
+Water Purifier,April,Yes,No,34,198,1.15,297
+Smart TV,August,No,Yes,3,105,1.05,129
+Refrigerator,November,Yes,Yes,9,183,1.0,244
+Water Purifier,December,No,No,4,231,0.7,166
+Washing Machine,May,No,No,28,170,1.0,185
+Smart TV,June,No,No,36,129,1.0,147
+Microwave Oven,December,No,No,7,129,1.2,153
+Laptop,May,No,Yes,36,209,1.0,260
+Room Heater,October,Yes,Yes,33,182,0.7,186
+Air Conditioner,March,Yes,Yes,13,126,0.8,143
+Smart TV,April,No,Yes,19,105,0.95,116
+Refrigerator,August,No,No,35,197,1.0,218
+Microwave Oven,April,Yes,Yes,9,234,0.9,290
+Refrigerator,March,No,No,16,164,1.0,173
+Room Heater,December,Yes,No,21,89,1.35,150
+Laptop,February,No,Yes,31,159,0.9,175
+Water Purifier,May,Yes,No,32,167,1.25,271
+Laptop,October,Yes,No,14,108,1.1,139
+Washing Machine,March,No,Yes,6,119,1.0,136
+Ceiling Fan,March,No,Yes,2,171,0.9,170
+Ceiling Fan,March,Yes,No,14,233,0.9,242
+Ceiling Fan,August,No,Yes,16,88,1.0,104
+Washing Machine,April,No,No,3,215,1.0,213
+Air Conditioner,June,Yes,No,14,214,1.25,329
+Air Cooler,October,No,No,37,215,0.45,108
+Air Cooler,December,Yes,Yes,3,206,0.25,69
+Washing Machine,April,Yes,Yes,29,201,1.0,275
+Smart TV,December,Yes,Yes,1,191,1.2,276
+Air Conditioner,August,No,Yes,23,155,1.0,185
+Air Cooler,February,Yes,No,15,218,0.4,112
+Water Purifier,December,Yes,Yes,37,167,0.7,162
+Laptop,July,No,No,13,117,1.25,155
+Ceiling Fan,October,No,Yes,2,146,0.8,132
+Room Heater,October,Yes,No,19,117,0.7,102
+Water Purifier,July,No,No,27,143,1.1,171
+Laptop,November,No,No,39,115,1.2,157
+Air Cooler,February,No,Yes,18,91,0.4,43
+Washing Machine,April,Yes,Yes,7,84,1.0,108
+Air Cooler,December,Yes,Yes,34,129,0.25,46
+Water Purifier,October,Yes,Yes,0,227,0.8,222
+Air Cooler,December,No,Yes,32,164,0.25,49
+Washing Machine,August,Yes,No,29,223,1.0,287
+Air Cooler,March,No,Yes,12,80,0.7,66
+Air Cooler,October,No,Yes,35,115,0.45,66
+Washing Machine,December,No,Yes,34,180,1.0,224
+Air Conditioner,July,Yes,No,5,91,1.1,114
+Water Purifier,January,No,No,14,246,0.7,177
+Water Purifier,December,Yes,Yes,10,131,0.7,124
+Water Purifier,August,Yes,No,22,130,1.0,151
+Air Conditioner,April,No,No,13,110,1.0,115
+Air Cooler,August,No,Yes,7,179,0.9,180
+Microwave Oven,October,Yes,No,20,250,1.3,400
+Water Purifier,February,Yes,Yes,20,109,0.8,128
+Washing Machine,August,Yes,Yes,26,247,1.0,328
+Air Conditioner,March,Yes,No,35,123,0.8,132
+Air Cooler,February,Yes,Yes,13,173,0.4,93
+Air Conditioner,June,Yes,No,9,103,1.25,156
+Room Heater,December,Yes,No,12,226,1.35,362
+Air Conditioner,July,No,No,22,250,1.1,297
+Air Cooler,August,No,No,18,194,0.9,189
+Refrigerator,October,No,No,3,129,1.0,129
+Laptop,February,Yes,No,25,203,0.9,222
+Microwave Oven,March,Yes,Yes,19,80,0.85,89
+Water Purifier,July,Yes,No,38,236,1.1,328
+Laptop,April,No,Yes,16,171,1.0,201
+Room Heater,June,No,Yes,40,82,0.2,25
+Ceiling Fan,January,Yes,No,27,136,0.6,98
+Air Cooler,February,Yes,No,21,135,0.4,65
+Ceiling Fan,May,No,Yes,32,203,1.2,293
+Smart TV,July,No,No,27,147,1.0,161
+Air Cooler,May,No,Yes,1,96,1.25,135
+Refrigerator,July,Yes,Yes,39,100,1.0,148
+Ceiling Fan,September,No,No,12,85,0.9,83
+Laptop,September,Yes,No,32,154,1.15,219
+Laptop,July,No,Yes,37,249,1.25,389
+Air Conditioner,December,No,Yes,12,104,0.4,49
+Smart TV,May,No,No,21,82,0.95,87
+Laptop,March,Yes,No,32,155,0.95,190
+Air Conditioner,December,Yes,Yes,25,184,0.4,97
+Smart TV,August,No,No,24,226,1.05,255
+Washing Machine,March,Yes,Yes,18,212,1.0,287
+Room Heater,May,Yes,No,32,108,0.25,34
+Water Purifier,April,Yes,Yes,22,215,1.15,345
+Microwave Oven,October,No,No,1,151,1.3,193
+Room Heater,August,Yes,Yes,4,114,0.25,34
+Air Cooler,April,No,Yes,15,102,1.0,112
+Refrigerator,September,Yes,Yes,38,127,1.0,173
+Laptop,June,Yes,Yes,21,249,1.15,395
+Air Conditioner,December,No,Yes,2,153,0.4,71
+Air Cooler,November,Yes,No,3,239,0.3,82
+Microwave Oven,May,Yes,Yes,14,227,0.9,278
+Smart TV,July,No,Yes,29,230,1.0,283
+Laptop,June,No,Yes,40,173,1.15,255
+Washing Machine,October,No,No,39,99,1.0,109
+Air Cooler,July,Yes,No,11,204,1.0,236
+Air Conditioner,August,No,Yes,32,112,1.0,131
+Air Cooler,June,No,No,29,187,1.2,239
+Room Heater,August,Yes,No,20,231,0.25,73
+Refrigerator,March,Yes,No,26,115,1.0,151
+Air Conditioner,October,Yes,Yes,7,192,0.6,155
+Air Cooler,August,No,No,26,220,0.9,210
+Microwave Oven,December,Yes,Yes,26,105,1.2,187
+Smart TV,December,Yes,Yes,30,188,1.2,321
+Smart TV,November,No,No,37,155,1.3,222
+Microwave Oven,February,Yes,No,28,184,0.8,183
+Water Purifier,April,Yes,Yes,15,153,1.15,239
+Water Purifier,August,No,Yes,36,87,1.0,105
+Ceiling Fan,June,Yes,No,1,102,1.2,143
+Refrigerator,November,Yes,No,34,203,1.0,269
+Refrigerator,January,Yes,Yes,28,183,1.0,248
+Ceiling Fan,August,Yes,No,3,133,1.0,161
+Washing Machine,April,Yes,Yes,1,163,1.0,209
+Refrigerator,December,No,No,25,249,1.0,263
+Room Heater,March,Yes,Yes,34,248,0.7,249
+Ceiling Fan,November,Yes,No,13,199,0.7,168
+Air Conditioner,September,Yes,Yes,13,189,0.8,199
+Ceiling Fan,April,Yes,No,10,175,1.1,229
+Room Heater,June,No,Yes,33,132,0.2,33
+Water Purifier,August,No,Yes,34,152,1.0,191
+Microwave Oven,June,No,Yes,20,179,0.95,201
+Refrigerator,September,No,Yes,15,124,1.0,141
+Laptop,September,Yes,No,9,214,1.15,294
+Laptop,July,No,No,39,204,1.25,282
+Washing Machine,July,Yes,Yes,16,127,1.0,170
+Room Heater,October,Yes,No,30,167,0.7,149
+Air Conditioner,October,Yes,No,9,125,0.6,85
+Water Purifier,February,No,No,2,204,0.8,165
+Laptop,September,No,Yes,20,120,1.15,159
+Laptop,November,Yes,No,26,157,1.2,237
+Air Cooler,July,Yes,No,24,250,1.0,312
+Laptop,November,Yes,Yes,8,82,1.2,134
+Air Cooler,May,No,Yes,1,132,1.25,186
+Air Conditioner,January,No,No,34,82,0.4,40
+Air Conditioner,June,Yes,No,18,150,1.25,219
+Microwave Oven,July,No,Yes,3,186,1.0,212
+Air Cooler,November,No,Yes,27,120,0.3,46
+Washing Machine,December,Yes,No,7,91,1.0,111
+Air Conditioner,September,Yes,Yes,21,118,0.8,123
+Laptop,March,Yes,Yes,37,89,0.95,120
+Microwave Oven,February,No,No,39,157,0.8,143
+Laptop,March,Yes,Yes,22,114,0.95,159
+Laptop,July,Yes,No,4,178,1.25,249
+Washing Machine,May,No,Yes,36,240,1.0,302
+Smart TV,December,Yes,No,16,168,1.2,251
+Laptop,May,No,Yes,33,163,1.0,190
+Microwave Oven,July,Yes,Yes,12,239,1.0,336
+Washing Machine,October,No,No,30,94,1.0,97
+Room Heater,August,No,Yes,3,147,0.25,36
+Ceiling Fan,October,Yes,No,36,166,0.8,172
+Microwave Oven,June,Yes,No,21,207,0.95,239
+Room Heater,November,No,No,36,165,1.1,202
+Room Heater,December,No,Yes,4,246,1.35,380
+Microwave Oven,February,Yes,No,0,176,0.8,166
+Room Heater,January,No,No,36,188,1.3,267
+Washing Machine,March,Yes,Yes,36,244,1.0,344
+Ceiling Fan,November,Yes,No,36,215,0.7,198
+Washing Machine,April,Yes,Yes,16,192,1.0,278
+Washing Machine,July,Yes,Yes,35,108,1.0,143
+Washing Machine,January,Yes,Yes,0,184,1.0,223
+Smart TV,March,Yes,Yes,0,250,0.9,278
+Water Purifier,August,Yes,No,32,207,1.0,256
+Ceiling Fan,December,No,Yes,23,197,0.6,139
+Microwave Oven,July,No,Yes,16,132,1.0,152
+Washing Machine,October,No,No,0,210,1.0,207
+Laptop,November,No,No,7,232,1.2,284
+Microwave Oven,September,No,Yes,21,188,1.1,247
+Laptop,May,Yes,Yes,40,180,1.0,252
+Microwave Oven,January,No,No,32,143,0.8,130
+Room Heater,January,Yes,No,40,144,1.3,254
+Refrigerator,October,Yes,Yes,24,218,1.0,306
+Ceiling Fan,July,Yes,No,36,135,1.1,197
+Refrigerator,June,Yes,No,34,134,1.0,170
+Microwave Oven,April,Yes,Yes,21,118,0.9,151
+Laptop,May,No,Yes,37,92,1.0,116
+Washing Machine,February,Yes,No,5,137,1.0,158
+Room Heater,November,No,Yes,10,235,1.1,293
+Laptop,July,No,No,19,119,1.25,157
+Air Conditioner,April,Yes,Yes,39,80,1.0,112
+Air Cooler,May,Yes,No,37,137,1.25,222
+Refrigerator,April,Yes,No,33,146,1.0,177
+Air Cooler,August,No,No,13,135,0.9,130
+Microwave Oven,December,No,Yes,30,142,1.2,209
+Washing Machine,December,Yes,No,7,242,1.0,292
+Laptop,September,Yes,No,40,176,1.15,257
+Microwave Oven,November,No,Yes,17,162,1.35,258
+Smart TV,January,Yes,No,4,128,0.9,130
+Refrigerator,April,No,No,32,112,1.0,125
+Room Heater,April,No,No,14,188,0.4,79
+Smart TV,July,Yes,No,26,132,1.0,163
+Ceiling Fan,April,No,No,3,122,1.1,131
+Air Conditioner,March,Yes,Yes,33,242,0.8,278
+Air Cooler,December,No,No,39,164,0.25,46
+Smart TV,November,No,Yes,3,250,1.3,371
+Laptop,April,No,Yes,35,134,1.0,174
+Water Purifier,May,Yes,Yes,27,127,1.25,225
+Ceiling Fan,July,No,No,31,143,1.1,168
+Air Cooler,December,Yes,No,35,90,0.25,32
+Smart TV,November,No,No,28,92,1.3,127
+Ceiling Fan,September,No,No,5,240,0.9,216
+Washing Machine,January,No,No,13,182,1.0,194
+Air Conditioner,December,Yes,No,38,189,0.4,98
+Water Purifier,July,Yes,No,33,88,1.1,126
+Microwave Oven,March,No,Yes,6,108,0.85,98
+Air Cooler,November,Yes,No,29,179,0.3,68
+Water Purifier,June,No,Yes,0,246,1.2,330
+Laptop,October,No,Yes,35,151,1.1,196
+Microwave Oven,September,No,Yes,9,117,1.1,150
+Laptop,August,Yes,Yes,0,87,1.3,142
+Air Conditioner,May,No,No,18,144,1.3,197
+Air Cooler,June,No,No,2,200,1.2,238
+Laptop,December,No,No,38,243,1.1,295
+Water Purifier,October,Yes,No,2,207,0.8,186
+Refrigerator,July,No,No,36,154,1.0,168
+Washing Machine,February,No,No,8,227,1.0,233
+Washing Machine,January,No,No,23,84,1.0,85
+Microwave Oven,April,Yes,No,11,117,0.9,129
+Water Purifier,August,Yes,No,34,217,1.0,266
+Air Conditioner,December,Yes,No,37,131,0.4,60
+Laptop,June,Yes,No,40,131,1.15,190
+Water Purifier,November,No,Yes,20,116,0.75,108
+Ceiling Fan,January,No,No,30,178,0.6,116
+Microwave Oven,June,No,Yes,12,184,0.95,198
+Air Conditioner,June,No,Yes,25,214,1.25,332
+Air Conditioner,June,No,Yes,27,204,1.25,314
+Room Heater,March,Yes,No,39,171,0.7,143
+Room Heater,February,No,Yes,37,204,1.15,293
+Water Purifier,February,No,Yes,20,203,0.8,187
+Room Heater,October,Yes,No,8,88,0.7,72
+Air Conditioner,September,No,No,33,103,0.8,93
+Laptop,May,Yes,Yes,19,166,1.0,220
+Smart TV,December,Yes,Yes,14,100,1.2,169
+Laptop,January,Yes,No,32,201,0.9,224
+Microwave Oven,February,No,Yes,6,208,0.8,194
+Smart TV,September,No,Yes,16,168,1.1,210
+Laptop,February,Yes,No,16,159,0.9,167
+Smart TV,February,No,Yes,40,204,0.9,230
+Ceiling Fan,January,Yes,No,12,225,0.6,161
+Room Heater,May,Yes,No,12,95,0.25,24
+Laptop,March,Yes,No,16,152,0.95,176
+Laptop,October,No,Yes,3,118,1.1,143
+Washing Machine,November,Yes,Yes,36,162,1.0,246
+Smart TV,August,No,No,9,241,1.05,265
+Washing Machine,May,No,Yes,34,143,1.0,178
+Water Purifier,December,Yes,Yes,32,219,0.7,216
+Refrigerator,July,No,No,38,99,1.0,111
+Smart TV,May,No,No,34,204,0.95,217
+Smart TV,April,No,Yes,33,109,0.95,125
+Room Heater,December,Yes,No,6,201,1.35,313
+Microwave Oven,January,Yes,No,7,208,0.8,207
+Smart TV,February,Yes,Yes,10,113,0.9,143
+Room Heater,June,Yes,Yes,16,247,0.2,61
+Air Cooler,December,Yes,Yes,25,250,0.25,84
+Laptop,January,No,No,12,242,0.9,225
+Air Cooler,March,No,Yes,26,160,0.7,128
+Ceiling Fan,January,Yes,Yes,40,109,0.6,93
+Water Purifier,December,No,No,29,164,0.7,127
+Washing Machine,November,Yes,No,1,181,1.0,205
+Air Cooler,December,Yes,No,37,187,0.25,59
+Refrigerator,February,Yes,Yes,9,151,1.0,206
+Smart TV,April,No,No,28,182,0.95,189
+Microwave Oven,June,No,No,29,136,0.95,140
+Air Cooler,March,No,No,29,206,0.7,157
+Smart TV,August,No,No,30,208,1.05,241
+Refrigerator,January,Yes,No,11,158,1.0,194
+Water Purifier,July,Yes,Yes,30,106,1.1,160
+Room Heater,December,Yes,Yes,17,115,1.35,213
+Ceiling Fan,November,Yes,No,15,194,0.7,173
+Air Cooler,June,Yes,No,33,88,1.2,133
+Washing Machine,July,Yes,No,20,179,1.0,219
+Laptop,December,No,Yes,34,154,1.1,213
+Water Purifier,November,Yes,No,9,89,0.75,74
+Smart TV,March,Yes,Yes,18,114,0.9,139
+Smart TV,January,Yes,No,35,226,0.9,272
+Room Heater,September,Yes,No,25,231,0.4,117
+Smart TV,September,No,No,20,157,1.1,179
+Washing Machine,August,No,No,0,154,1.0,158
+Water Purifier,July,Yes,No,27,90,1.1,131
+Air Conditioner,April,Yes,Yes,13,239,1.0,327
+Ceiling Fan,April,No,Yes,35,185,1.1,246
+Ceiling Fan,June,No,Yes,38,196,1.2,295
+Ceiling Fan,June,Yes,Yes,27,151,1.2,235
+Ceiling Fan,June,No,Yes,28,118,1.2,174
+Microwave Oven,May,Yes,No,9,250,0.9,260
+Room Heater,March,No,Yes,29,198,0.7,175
+Ceiling Fan,November,No,Yes,38,195,0.7,164
+Air Cooler,April,No,Yes,17,219,1.0,246
+Air Conditioner,November,No,Yes,40,187,0.45,111
+Ceiling Fan,October,Yes,Yes,17,104,0.8,117
+Smart TV,March,Yes,No,2,219,0.9,227
+Room Heater,April,No,Yes,12,98,0.4,45
+Refrigerator,March,No,No,14,146,1.0,147
+Air Conditioner,June,Yes,No,17,183,1.25,274
+Air Cooler,January,No,No,32,186,0.3,59
+Air Cooler,March,No,No,1,195,0.7,134
+Laptop,February,Yes,No,13,189,0.9,198
+Smart TV,February,Yes,No,5,161,0.9,170
+Smart TV,June,Yes,Yes,13,196,1.0,268
+Washing Machine,August,No,Yes,11,225,1.0,265
+Room Heater,October,No,No,10,199,0.7,138
+Laptop,February,No,Yes,13,122,0.9,132
+Smart TV,August,Yes,No,10,149,1.05,178
+Ceiling Fan,January,Yes,No,7,159,0.6,117
+Room Heater,February,Yes,Yes,3,222,1.15,309
+Air Cooler,March,No,Yes,20,239,0.7,197
+Ceiling Fan,April,No,Yes,7,208,1.1,264
+Water Purifier,June,Yes,No,35,133,1.2,207
+Ceiling Fan,June,Yes,Yes,11,244,1.2,397
+Refrigerator,May,Yes,Yes,11,91,1.0,119
+Water Purifier,January,Yes,No,12,221,0.7,184
+Smart TV,September,Yes,Yes,40,225,1.1,370
+Air Conditioner,February,No,No,40,188,0.5,106
+Room Heater,September,Yes,No,7,210,0.4,99
+Ceiling Fan,August,Yes,Yes,27,177,1.0,235
+Refrigerator,July,No,No,27,193,1.0,204
+Air Cooler,July,No,No,17,152,1.0,158
+Room Heater,May,Yes,No,12,228,0.25,67
+Ceiling Fan,October,Yes,No,5,197,0.8,187
+Water Purifier,June,No,Yes,24,195,1.2,286
+Washing Machine,October,No,No,27,230,1.0,250
+Air Conditioner,January,Yes,Yes,28,240,0.4,138
+Refrigerator,April,Yes,No,16,88,1.0,107
+Room Heater,December,Yes,Yes,23,239,1.35,420
+Air Cooler,April,Yes,No,11,148,1.0,178
+Microwave Oven,May,No,Yes,24,167,0.9,173
+Laptop,November,Yes,No,34,90,1.2,134
+Microwave Oven,February,Yes,No,23,103,0.8,101
+Washing Machine,November,Yes,No,24,153,1.0,199
+Washing Machine,September,No,No,21,121,1.0,134
+Refrigerator,July,Yes,Yes,23,97,1.0,131
+Room Heater,August,No,No,23,96,0.25,24
+Refrigerator,May,Yes,No,38,111,1.0,138
+Washing Machine,November,Yes,Yes,11,189,1.0,236
+Laptop,November,No,Yes,20,178,1.2,256
+Room Heater,August,No,Yes,33,94,0.25,31
+Washing Machine,July,Yes,Yes,33,168,1.0,246
+Refrigerator,July,Yes,Yes,38,148,1.0,211
+Air Conditioner,February,Yes,No,25,189,0.5,114
+Ceiling Fan,April,No,No,7,116,1.1,126
+Microwave Oven,December,No,Yes,33,207,1.2,306
+Ceiling Fan,March,No,Yes,35,135,0.9,154
+Room Heater,December,No,No,39,80,1.35,125
+Water Purifier,June,Yes,No,19,179,1.2,254
+Refrigerator,April,Yes,No,16,91,1.0,110
+Microwave Oven,March,No,Yes,40,235,0.85,249
+Room Heater,August,No,Yes,6,222,0.25,66
+Laptop,March,Yes,No,4,197,0.95,224
+Washing Machine,April,Yes,Yes,21,115,1.0,160
+Air Conditioner,December,Yes,Yes,7,228,0.4,110
+Air Cooler,November,Yes,No,8,100,0.3,41
+Room Heater,February,No,No,2,114,1.15,133
+Refrigerator,May,No,Yes,12,193,1.0,219
+Ceiling Fan,June,Yes,Yes,19,240,1.2,366
+Smart TV,July,Yes,Yes,35,227,1.0,327
+Washing Machine,February,Yes,Yes,6,215,1.0,269
+Refrigerator,June,No,No,35,137,1.0,153
+Room Heater,August,Yes,Yes,39,242,0.25,82
+Microwave Oven,May,Yes,Yes,26,201,0.9,265
+Refrigerator,March,Yes,Yes,27,225,1.0,305
+Air Cooler,July,No,No,40,111,1.0,123
+Refrigerator,August,Yes,No,7,198,1.0,222
+Washing Machine,June,Yes,No,18,170,1.0,204
+Room Heater,November,No,No,31,182,1.1,224
+Laptop,January,No,Yes,27,230,0.9,247
+Ceiling Fan,March,Yes,No,39,240,0.9,271
+Laptop,September,Yes,Yes,14,179,1.15,265
+Refrigerator,June,No,No,37,188,1.0,208
+Washing Machine,January,Yes,Yes,21,92,1.0,133
+Smart TV,March,No,Yes,13,95,0.9,102
+Washing Machine,November,Yes,No,8,188,1.0,219
+Washing Machine,August,Yes,Yes,11,114,1.0,153
+Laptop,December,No,Yes,24,249,1.1,322
+Refrigerator,October,Yes,No,6,238,1.0,289
+Air Cooler,November,Yes,Yes,3,186,0.3,65
+Microwave Oven,March,Yes,No,11,171,0.85,175
+Air Conditioner,June,No,Yes,33,222,1.25,337
+Room Heater,October,No,Yes,32,201,0.7,179
+Room Heater,October,Yes,Yes,11,224,0.7,209
+Microwave Oven,January,Yes,Yes,7,230,0.8,241
+Ceiling Fan,August,No,Yes,29,212,1.0,255
+Laptop,January,No,Yes,19,106,0.9,118
+Refrigerator,January,Yes,No,6,83,1.0,103
+Room Heater,July,No,No,3,200,0.2,39
+Room Heater,November,No,No,23,104,1.1,119
+Washing Machine,January,No,No,9,80,1.0,87
+Water Purifier,September,Yes,No,32,116,0.9,137
+Air Cooler,January,Yes,No,28,83,0.3,25
+Laptop,June,Yes,Yes,5,166,1.15,237
+Room Heater,February,No,No,7,180,1.15,212
+Smart TV,June,Yes,No,34,168,1.0,223
+Smart TV,April,Yes,No,25,140,0.95,169
+Washing Machine,January,Yes,Yes,35,210,1.0,293
+Air Cooler,May,Yes,No,1,140,1.25,204
+Laptop,October,No,No,14,131,1.1,152
+Air Conditioner,August,No,Yes,19,187,1.0,219
+Ceiling Fan,December,No,Yes,36,235,0.6,177
+Ceiling Fan,September,Yes,Yes,4,85,0.9,100
+Microwave Oven,January,Yes,No,1,144,0.8,132
+Refrigerator,September,No,Yes,17,119,1.0,139
+Air Conditioner,February,No,Yes,17,88,0.5,56
+Room Heater,September,Yes,No,4,95,0.4,43
+Air Cooler,August,No,No,17,212,0.9,203
+Washing Machine,May,No,Yes,30,215,1.0,265
+Microwave Oven,May,No,Yes,33,245,0.9,274
+Water Purifier,December,No,Yes,33,215,0.7,192
+Refrigerator,November,No,No,10,150,1.0,154
+Laptop,July,No,Yes,4,188,1.25,269
+Air Conditioner,December,No,Yes,16,171,0.4,85
+Smart TV,June,No,No,27,183,1.0,195
+Laptop,May,No,Yes,14,101,1.0,119
+Air Conditioner,September,No,No,4,164,0.8,131
+Washing Machine,September,Yes,Yes,20,133,1.0,180
+Washing Machine,April,Yes,No,40,162,1.0,201
+Laptop,November,Yes,Yes,9,243,1.2,386
+Water Purifier,May,No,No,26,205,1.25,278
+Water Purifier,September,No,No,29,165,0.9,157
+Washing Machine,March,Yes,No,4,180,1.0,209
+Water Purifier,April,No,Yes,40,102,1.15,146
+Refrigerator,February,No,No,15,91,1.0,97
+Water Purifier,November,No,No,2,184,0.75,140
+Air Cooler,October,Yes,Yes,21,173,0.45,98
+Washing Machine,May,Yes,No,26,209,1.0,253
+Microwave Oven,November,No,Yes,37,224,1.35,381
+Room Heater,July,Yes,Yes,33,113,0.2,28
+Washing Machine,May,No,No,12,145,1.0,145
+Microwave Oven,March,No,Yes,10,219,0.85,221
+Smart TV,January,Yes,Yes,13,200,0.9,227
+Air Conditioner,November,No,Yes,36,145,0.45,79
+Room Heater,September,No,No,14,200,0.4,81
+Refrigerator,April,No,No,0,213,1.0,214
+Smart TV,September,Yes,Yes,29,164,1.1,258
+Water Purifier,November,No,No,30,163,0.75,130
+Room Heater,December,No,Yes,24,96,1.35,158
+Room Heater,April,Yes,No,32,178,0.4,86
+Microwave Oven,December,Yes,Yes,16,161,1.2,264
+Refrigerator,May,Yes,No,36,226,1.0,279
+Smart TV,May,Yes,Yes,11,211,0.95,256
+Ceiling Fan,April,Yes,Yes,20,201,1.1,299
+Room Heater,September,Yes,Yes,25,115,0.4,57
+Laptop,June,Yes,Yes,20,203,1.15,318
+Microwave Oven,December,Yes,Yes,24,204,1.2,345
+Laptop,May,No,No,19,247,1.0,257
+Microwave Oven,November,No,Yes,31,129,1.35,216
+Room Heater,January,Yes,No,28,197,1.3,317
+Water Purifier,January,No,No,32,182,0.7,144
+Refrigerator,March,No,No,8,105,1.0,111
+Refrigerator,March,Yes,Yes,24,129,1.0,193
+Room Heater,June,No,No,0,96,0.2,24
+Refrigerator,August,No,Yes,13,246,1.0,275
+Laptop,November,No,No,15,218,1.2,269
+Ceiling Fan,October,Yes,No,37,92,0.8,90
+Room Heater,July,Yes,Yes,19,138,0.2,44
+Room Heater,May,Yes,Yes,12,208,0.25,71
+Air Cooler,April,No,No,6,217,1.0,219
+Air Cooler,February,No,No,35,152,0.4,67
+Refrigerator,April,Yes,No,2,143,1.0,168
+Refrigerator,February,Yes,Yes,23,194,1.0,262
+Air Cooler,August,No,No,34,95,0.9,97
+Smart TV,February,Yes,Yes,5,164,0.9,185
+Ceiling Fan,February,No,Yes,11,139,0.7,120
+Washing Machine,November,Yes,Yes,37,164,1.0,233
+Smart TV,November,No,No,23,120,1.3,164
+Microwave Oven,April,Yes,No,12,160,0.9,166
+Laptop,July,Yes,Yes,23,118,1.25,203
+Air Conditioner,March,Yes,No,30,102,0.8,102
+Microwave Oven,May,No,Yes,23,224,0.9,250
+Washing Machine,December,Yes,Yes,4,226,1.0,295
+Water Purifier,September,Yes,No,27,207,0.9,225
+Ceiling Fan,January,Yes,Yes,5,161,0.6,129
+Room Heater,August,No,Yes,21,95,0.25,31
+Ceiling Fan,May,Yes,No,16,201,1.2,276
+Laptop,July,No,Yes,38,190,1.25,299
+Air Conditioner,September,Yes,Yes,35,118,0.8,134
+Water Purifier,February,No,Yes,37,91,0.8,97
+Ceiling Fan,November,No,Yes,4,224,0.7,184
+Laptop,April,No,Yes,6,249,1.0,284
+Washing Machine,May,Yes,No,15,186,1.0,216
+Air Conditioner,August,Yes,Yes,24,219,1.0,302
+Water Purifier,August,Yes,No,4,110,1.0,126
+Water Purifier,October,Yes,Yes,0,191,0.8,202
+Air Cooler,September,Yes,No,7,97,0.7,76
+Air Cooler,April,No,No,3,101,1.0,97
+Air Cooler,June,Yes,Yes,2,89,1.2,142
+Smart TV,July,No,Yes,6,245,1.0,289
+Air Conditioner,January,No,No,7,93,0.4,39
+Ceiling Fan,May,No,No,20,97,1.2,120
+Water Purifier,March,No,Yes,16,130,1.0,156
+Smart TV,May,No,Yes,33,162,0.95,180
+Washing Machine,January,No,Yes,39,125,1.0,158
+Washing Machine,February,No,No,7,100,1.0,102
+Refrigerator,May,Yes,No,30,191,1.0,240
+Smart TV,August,Yes,Yes,30,177,1.05,259
+Water Purifier,February,Yes,Yes,31,102,0.8,116
+Ceiling Fan,October,Yes,Yes,33,167,0.8,195
+Laptop,June,No,Yes,33,151,1.15,211
+Air Conditioner,September,Yes,Yes,30,193,0.8,207
+Microwave Oven,August,No,Yes,19,166,1.0,197
+Room Heater,January,No,Yes,1,220,1.3,321
+Air Cooler,May,Yes,Yes,32,107,1.25,194
+Room Heater,April,Yes,Yes,26,101,0.4,57
+Ceiling Fan,May,Yes,No,33,126,1.2,197
+Laptop,December,No,No,10,187,1.1,216
+Washing Machine,June,No,Yes,32,237,1.0,287
+Room Heater,December,No,No,31,237,1.35,348
+Washing Machine,December,Yes,Yes,31,193,1.0,256
+Room Heater,July,No,No,30,239,0.2,49
+Air Conditioner,March,Yes,Yes,24,199,0.8,225
+Refrigerator,January,No,Yes,25,98,1.0,112
+Water Purifier,January,No,No,1,139,0.7,93
+Smart TV,October,Yes,Yes,36,210,1.35,386
+Water Purifier,April,Yes,No,19,238,1.15,326
+Room Heater,December,No,Yes,1,103,1.35,160
+Refrigerator,July,Yes,No,23,226,1.0,282
+Air Conditioner,May,No,No,9,238,1.3,317
+Laptop,July,No,No,15,225,1.25,289
+Room Heater,March,No,No,17,204,0.7,153
+Laptop,January,Yes,No,32,233,0.9,258
+Room Heater,May,No,Yes,26,184,0.25,53
+Smart TV,April,Yes,Yes,22,124,0.95,163
+Microwave Oven,April,No,No,36,183,0.9,180
+Washing Machine,May,No,No,9,148,1.0,152
+Water Purifier,June,Yes,Yes,32,182,1.2,297
+Washing Machine,October,Yes,Yes,4,182,1.0,232
+Air Cooler,March,No,No,24,239,0.7,182
+Room Heater,August,Yes,No,22,123,0.25,43
+Room Heater,November,Yes,Yes,8,86,1.1,128
+Microwave Oven,July,Yes,No,22,209,1.0,247
+Ceiling Fan,August,No,Yes,12,220,1.0,250
+Microwave Oven,July,Yes,Yes,27,201,1.0,274
+Microwave Oven,April,Yes,No,31,236,0.9,274
+Air Cooler,April,Yes,Yes,17,133,1.0,189
+Room Heater,June,No,No,23,142,0.2,25
+Room Heater,August,No,Yes,6,239,0.25,67
+Laptop,December,No,No,14,137,1.1,159
+Room Heater,January,No,No,37,83,1.3,124
+Washing Machine,August,Yes,No,35,215,1.0,268
+Refrigerator,May,No,No,29,239,1.0,265
+Refrigerator,January,No,No,0,178,1.0,181
+Room Heater,March,No,Yes,18,188,0.7,156
+Microwave Oven,September,No,No,30,96,1.1,117
+Laptop,August,No,No,7,248,1.3,329
+Air Conditioner,September,No,Yes,25,195,0.8,188
+Air Conditioner,August,No,Yes,20,202,1.0,242
+Smart TV,February,Yes,Yes,27,90,0.9,107
+Room Heater,October,Yes,No,13,130,0.7,113
+Ceiling Fan,July,Yes,Yes,36,159,1.1,251
+Ceiling Fan,June,No,No,14,95,1.2,119
+Washing Machine,July,Yes,Yes,2,247,1.0,314
+Microwave Oven,March,No,No,33,115,0.85,109
+Ceiling Fan,April,Yes,Yes,8,80,1.1,123
+Washing Machine,May,Yes,No,38,160,1.0,205
+Room Heater,March,No,Yes,2,181,0.7,150
+Ceiling Fan,November,No,Yes,19,238,0.7,190
+Room Heater,March,Yes,Yes,2,92,0.7,86
+Ceiling Fan,July,Yes,Yes,2,112,1.1,161
+Water Purifier,August,Yes,No,29,109,1.0,136
+Room Heater,July,Yes,No,6,164,0.2,45
+Water Purifier,September,Yes,No,23,186,0.9,216
+Air Cooler,August,No,No,9,223,0.9,203
+Ceiling Fan,June,Yes,No,40,227,1.2,340
+Laptop,June,No,No,27,233,1.15,288
+Ceiling Fan,June,Yes,No,14,81,1.2,122
+Water Purifier,January,No,Yes,34,162,0.7,136
+Refrigerator,August,No,No,6,153,1.0,155
+Room Heater,November,No,Yes,22,128,1.1,171
+Room Heater,July,Yes,Yes,4,234,0.2,59
+Air Cooler,November,Yes,Yes,37,85,0.3,41
+Laptop,October,No,Yes,3,135,1.1,172
+Refrigerator,April,No,Yes,4,219,1.0,248
+Smart TV,May,No,No,5,157,0.95,146
+Air Conditioner,April,Yes,No,26,93,1.0,118
+Microwave Oven,February,No,Yes,1,195,0.8,168
+Air Cooler,June,No,Yes,19,128,1.2,190
+Washing Machine,January,No,Yes,25,182,1.0,222
+Air Cooler,September,No,No,17,133,0.7,97
+Laptop,September,No,No,5,239,1.15,284
+Water Purifier,March,Yes,Yes,26,179,1.0,238
+Smart TV,July,No,No,24,90,1.0,99
+Laptop,August,No,Yes,24,135,1.3,207
+Ceiling Fan,April,Yes,Yes,21,149,1.1,231
+Microwave Oven,May,Yes,No,15,234,0.9,246
+Laptop,October,Yes,No,30,136,1.1,190
+Smart TV,June,Yes,Yes,1,193,1.0,251
+Refrigerator,June,Yes,Yes,39,183,1.0,275
+Smart TV,August,No,Yes,14,202,1.05,253
+Ceiling Fan,March,No,Yes,11,103,0.9,107
+Air Cooler,February,Yes,Yes,36,199,0.4,122
+Smart TV,November,No,Yes,8,94,1.3,140
+Room Heater,October,Yes,Yes,6,221,0.7,206
+Room Heater,August,Yes,Yes,1,104,0.25,37
+Air Cooler,November,Yes,Yes,27,148,0.3,65
+Smart TV,September,Yes,Yes,25,85,1.1,128
+Microwave Oven,November,No,No,20,125,1.35,174
+Water Purifier,August,No,Yes,7,175,1.0,202
+Washing Machine,April,Yes,Yes,18,235,1.0,319
+Refrigerator,March,No,No,24,127,1.0,133
+Water Purifier,May,Yes,Yes,16,142,1.25,245
+Smart TV,January,No,Yes,14,205,0.9,205
+Water Purifier,August,Yes,No,12,100,1.0,114
+Ceiling Fan,February,Yes,Yes,21,87,0.7,80
+Ceiling Fan,August,No,No,4,129,1.0,130
+Washing Machine,February,No,No,35,119,1.0,136
+Air Conditioner,October,Yes,No,35,248,0.6,190
+Smart TV,February,No,No,19,153,0.9,145
+Air Cooler,October,No,No,13,100,0.45,47
+Room Heater,November,No,No,0,134,1.1,142
+Air Conditioner,November,Yes,No,7,102,0.45,60
+Air Conditioner,November,No,No,29,126,0.45,64
+Smart TV,September,No,No,10,108,1.1,125
+Water Purifier,February,No,No,20,161,0.8,138
+Air Conditioner,July,No,Yes,29,192,1.1,255
+Air Cooler,March,No,Yes,25,226,0.7,187
+Water Purifier,April,Yes,Yes,36,135,1.15,221
+Room Heater,December,Yes,Yes,40,229,1.35,459
+Washing Machine,September,No,Yes,3,158,1.0,179
+Ceiling Fan,June,No,No,20,219,1.2,281
+Air Conditioner,December,Yes,Yes,0,178,0.4,81
+Microwave Oven,March,Yes,No,27,108,0.85,111
+Water Purifier,February,No,Yes,40,113,0.8,109
+Room Heater,August,Yes,No,35,233,0.25,72
+Air Conditioner,August,No,No,2,96,1.0,94
+Smart TV,March,No,No,16,193,0.9,184
+Air Conditioner,November,Yes,Yes,23,245,0.45,138
+Refrigerator,July,No,Yes,2,205,1.0,237
+Air Conditioner,July,Yes,Yes,24,231,1.1,336
+Ceiling Fan,October,No,No,37,167,0.8,146
+Air Cooler,November,No,Yes,0,233,0.3,83
+Refrigerator,July,Yes,No,36,83,1.0,103
+Ceiling Fan,November,No,Yes,37,242,0.7,217
+Laptop,September,Yes,Yes,34,181,1.15,294
+Air Conditioner,March,No,Yes,38,100,0.8,101
+Room Heater,December,No,Yes,11,123,1.35,199
+Air Cooler,April,No,No,22,150,1.0,159
+Laptop,November,Yes,Yes,15,155,1.2,234
+Room Heater,March,No,Yes,22,224,0.7,180
+Room Heater,September,No,No,12,126,0.4,51
+Washing Machine,January,No,Yes,0,153,1.0,176
+Microwave Oven,April,Yes,No,23,119,0.9,127
+Water Purifier,July,No,Yes,9,132,1.1,172
+Air Conditioner,February,No,No,26,209,0.5,117
+Washing Machine,April,No,No,26,172,1.0,186
+Water Purifier,November,Yes,Yes,23,249,0.75,265
+Washing Machine,December,No,Yes,12,110,1.0,129
+Ceiling Fan,June,Yes,No,11,164,1.2,242
+Refrigerator,October,No,No,7,114,1.0,121
+Laptop,November,Yes,Yes,22,82,1.2,135
+Smart TV,April,No,No,17,179,0.95,181
+Ceiling Fan,September,No,Yes,15,128,0.9,132
+Washing Machine,April,No,No,29,157,1.0,172
+Refrigerator,October,Yes,Yes,25,210,1.0,294
+Smart TV,November,Yes,No,12,147,1.3,229
+Refrigerator,February,Yes,Yes,25,172,1.0,241
+Water Purifier,February,Yes,Yes,39,206,0.8,224
+Smart TV,May,Yes,No,19,81,0.95,98
+Water Purifier,July,No,Yes,6,99,1.1,127
+Air Cooler,August,No,Yes,30,242,0.9,257
+Ceiling Fan,June,Yes,No,20,123,1.2,180
+Laptop,June,Yes,No,9,193,1.15,267
+Water Purifier,July,Yes,No,37,227,1.1,321
+Refrigerator,September,Yes,Yes,37,205,1.0,290
+Water Purifier,December,No,Yes,28,91,0.7,77
+Air Conditioner,March,No,Yes,16,130,0.8,124
+Water Purifier,May,Yes,Yes,22,231,1.25,386
+Room Heater,March,No,Yes,26,186,0.7,157
+Microwave Oven,September,Yes,Yes,14,237,1.1,347
+Microwave Oven,January,No,No,3,192,0.8,156
+Microwave Oven,September,No,No,40,182,1.1,229
+Refrigerator,April,Yes,Yes,23,240,1.0,337
+Smart TV,May,No,No,30,168,0.95,174
+Air Conditioner,October,No,No,32,135,0.6,92
+Refrigerator,April,No,No,29,123,1.0,138
+Laptop,November,Yes,Yes,21,153,1.2,247
+Water Purifier,April,Yes,Yes,8,131,1.15,187
+Washing Machine,March,No,No,39,216,1.0,243
+Ceiling Fan,July,Yes,No,8,96,1.1,128
+Air Conditioner,August,Yes,No,12,181,1.0,225
+Air Conditioner,June,No,Yes,20,104,1.25,152
+Smart TV,October,Yes,No,9,141,1.35,226
+Smart TV,February,No,No,7,194,0.9,174
+Smart TV,June,Yes,No,0,110,1.0,125
+Laptop,October,Yes,Yes,24,214,1.1,325
+Air Cooler,June,No,No,2,172,1.2,203
+Washing Machine,April,No,No,4,244,1.0,247
+Air Conditioner,July,No,No,0,150,1.1,162
+Air Conditioner,February,Yes,Yes,29,83,0.5,59
+Smart TV,February,No,Yes,40,246,0.9,265
+Water Purifier,May,Yes,Yes,1,248,1.25,403
+Water Purifier,February,Yes,Yes,8,208,0.8,228
+Microwave Oven,December,No,No,5,116,1.2,139
+Refrigerator,December,No,No,8,186,1.0,193
+Washing Machine,October,Yes,Yes,17,165,1.0,227
+Room Heater,February,Yes,No,26,192,1.15,277
+Laptop,May,No,No,22,244,1.0,259
+Air Conditioner,October,No,No,18,227,0.6,143
+Refrigerator,November,Yes,No,23,185,1.0,239
+Washing Machine,October,No,No,7,170,1.0,177
+Refrigerator,September,No,Yes,3,157,1.0,175
+Smart TV,April,No,No,15,199,0.95,200
+Laptop,June,Yes,Yes,4,231,1.15,346
+Laptop,September,No,No,34,218,1.15,277
+Room Heater,February,No,No,23,184,1.15,230
+Washing Machine,February,No,No,13,142,1.0,144
+Room Heater,January,Yes,No,16,127,1.3,190
+Laptop,September,No,Yes,36,167,1.15,244
+Laptop,April,Yes,No,39,113,1.0,143
+Air Conditioner,November,Yes,No,21,150,0.45,88
+Refrigerator,June,Yes,No,13,205,1.0,241
+Laptop,September,Yes,Yes,2,208,1.15,301
+Washing Machine,May,Yes,No,24,133,1.0,161
+Smart TV,May,Yes,Yes,39,149,0.95,202
+Washing Machine,November,No,No,15,88,1.0,92
+Water Purifier,August,Yes,No,31,97,1.0,120
+Washing Machine,July,Yes,Yes,1,164,1.0,214
+Room Heater,March,No,Yes,12,184,0.7,150
+Air Cooler,March,No,No,5,175,0.7,126
+Washing Machine,August,Yes,Yes,5,138,1.0,187
+Microwave Oven,August,No,No,15,91,1.0,90
+Room Heater,August,Yes,No,10,209,0.25,60
+Washing Machine,September,No,No,5,106,1.0,104
+Washing Machine,November,No,No,1,147,1.0,150
+Washing Machine,June,No,Yes,20,219,1.0,264
+Air Cooler,October,Yes,Yes,5,149,0.45,85
+Water Purifier,November,No,Yes,35,218,0.75,207
+Air Conditioner,July,Yes,No,37,185,1.1,261
+Ceiling Fan,May,No,No,16,223,1.2,275
+Air Conditioner,November,Yes,Yes,10,92,0.45,60
+Water Purifier,September,No,No,24,89,0.9,86
+Ceiling Fan,March,Yes,No,27,245,0.9,268
+Laptop,December,Yes,Yes,16,106,1.1,158
+Refrigerator,September,Yes,No,31,104,1.0,137
+Laptop,October,No,No,27,147,1.1,180
+Water Purifier,May,Yes,No,35,182,1.25,306
+Air Cooler,July,Yes,No,16,243,1.0,303
+Air Conditioner,July,No,No,8,230,1.1,263
+Washing Machine,August,No,No,16,223,1.0,229
+Air Conditioner,March,Yes,Yes,5,136,0.8,132
+Water Purifier,May,Yes,Yes,36,205,1.25,362
+Water Purifier,February,No,No,23,161,0.8,133
+Smart TV,September,Yes,No,28,159,1.1,209
+Air Cooler,March,Yes,No,33,223,0.7,198
+Air Cooler,May,Yes,No,35,136,1.25,223
+Laptop,June,Yes,No,22,223,1.15,297
+Water Purifier,May,No,Yes,14,138,1.25,193
+Water Purifier,February,No,No,39,138,0.8,126
+Air Conditioner,August,No,Yes,10,178,1.0,210
+Air Conditioner,April,Yes,No,4,181,1.0,198
+Washing Machine,October,Yes,No,4,178,1.0,208
+Water Purifier,November,No,No,19,211,0.75,168
+Washing Machine,August,Yes,Yes,4,80,1.0,110
+Water Purifier,April,No,Yes,25,98,1.15,132
+Refrigerator,August,No,No,12,163,1.0,166
+Air Conditioner,June,No,Yes,29,165,1.25,249
+Air Cooler,February,No,No,38,83,0.4,32
+Water Purifier,September,Yes,No,22,139,0.9,149
+Microwave Oven,December,Yes,Yes,3,176,1.2,270
+Smart TV,March,No,Yes,32,233,0.9,254
+Smart TV,January,No,No,6,131,0.9,117
+Air Cooler,December,Yes,Yes,12,152,0.25,51
+Air Cooler,June,No,Yes,1,226,1.2,303
+Microwave Oven,February,No,Yes,2,99,0.8,90
+Microwave Oven,July,Yes,No,15,125,1.0,146
+Room Heater,June,Yes,No,8,84,0.2,22
+Room Heater,November,Yes,No,21,154,1.1,210
+Washing Machine,February,No,Yes,6,166,1.0,189
+Smart TV,March,No,Yes,25,88,0.9,92
+Washing Machine,May,No,Yes,16,150,1.0,169
+Refrigerator,April,Yes,Yes,32,238,1.0,316
+Ceiling Fan,July,No,No,1,127,1.1,137
+Washing Machine,March,No,No,29,171,1.0,184
+Laptop,June,Yes,Yes,15,86,1.15,130
+Washing Machine,January,Yes,No,32,214,1.0,262
+Water Purifier,October,Yes,No,6,244,0.8,231
+Microwave Oven,December,No,No,30,138,1.2,178
+Laptop,November,Yes,No,33,113,1.2,167
+Refrigerator,January,No,Yes,38,232,1.0,282
+Air Cooler,September,Yes,No,11,230,0.7,194
+Air Cooler,October,Yes,Yes,34,244,0.45,156
+Refrigerator,September,Yes,No,1,208,1.0,243
+Ceiling Fan,April,No,Yes,0,246,1.1,309
+Smart TV,April,Yes,Yes,21,122,0.95,148
+Water Purifier,February,Yes,Yes,40,114,0.8,123
+Air Conditioner,October,Yes,No,26,165,0.6,126
+Smart TV,October,Yes,No,25,229,1.35,402
